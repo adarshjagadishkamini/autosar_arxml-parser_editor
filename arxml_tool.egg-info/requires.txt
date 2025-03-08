@@ -1,3 +1,0 @@
-autosar
-click
-lxml
