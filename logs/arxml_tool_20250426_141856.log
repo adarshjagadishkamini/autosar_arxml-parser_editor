@@ -1,0 +1,573 @@
+2025-04-26 14:18:56,062 - arxml_tool - ERROR - Error initializing packages: Invalid role name: SystemDesign
+2025-04-26 14:18:56,062 - arxml_tool - INFO - Loading ARXML file for editing: /home/adarsh/autosar_arxml-parser_editor/tests/../examples/sample.arxml
+2025-04-26 14:18:56,062 - arxml_tool - INFO - Loading ARXML file for editing: /home/adarsh/autosar_arxml-parser_editor/tests/../examples/sample.arxml
+2025-04-26 14:18:56,063 - arxml_tool - INFO - Loading ARXML file: /home/adarsh/autosar_arxml-parser_editor/tests/../examples/sample.arxml
+2025-04-26 14:18:56,063 - arxml_tool - INFO - Loading ARXML file: /home/adarsh/autosar_arxml-parser_editor/tests/../examples/sample.arxml
+2025-04-26 14:18:56,064 - arxml_tool - ERROR - Error initializing packages: Invalid role name: SystemDesign
+2025-04-26 14:18:56,064 - arxml_tool - ERROR - Error initializing packages: Invalid role name: SystemDesign
+2025-04-26 14:18:56,269 - arxml_tool - WARNING - Failed to download schema: HTTP 404
+2025-04-26 14:18:56,269 - arxml_tool - WARNING - Failed to download schema: HTTP 404
+2025-04-26 14:18:56,270 - arxml_tool - WARNING - Could not load schema, skipping validation
+2025-04-26 14:18:56,270 - arxml_tool - WARNING - Could not load schema, skipping validation
+2025-04-26 14:18:56,271 - arxml_tool - INFO - Successfully loaded ARXML file
+2025-04-26 14:18:56,271 - arxml_tool - INFO - Successfully loaded ARXML file
+2025-04-26 14:18:56,272 - arxml_tool - INFO - Added software component: OriginalComponent
+2025-04-26 14:18:56,272 - arxml_tool - INFO - Added software component: OriginalComponent
+2025-04-26 14:18:56,273 - arxml_tool - INFO - Added software component: OriginalComponent
+2025-04-26 14:18:56,273 - arxml_tool - INFO - Added software component: OriginalComponent
+2025-04-26 14:18:56,273 - arxml_tool - INFO - Created backup: /tmp/.arxml_backups/tmpcr1oxd_g.arxml.20250426_141856.bak
+2025-04-26 14:18:56,273 - arxml_tool - INFO - Created backup: /tmp/.arxml_backups/tmpcr1oxd_g.arxml.20250426_141856.bak
+2025-04-26 14:18:56,275 - arxml_tool - INFO - Saved ARXML file to: /tmp/tmpcr1oxd_g.arxml
+2025-04-26 14:18:56,275 - arxml_tool - INFO - Saved ARXML file to: /tmp/tmpcr1oxd_g.arxml
+2025-04-26 14:18:56,276 - arxml_tool - INFO - Added software component: NewComponent
+2025-04-26 14:18:56,276 - arxml_tool - INFO - Added software component: NewComponent
+2025-04-26 14:18:56,277 - arxml_tool - INFO - Added software component: NewComponent
+2025-04-26 14:18:56,277 - arxml_tool - INFO - Added software component: NewComponent
+2025-04-26 14:18:56,278 - arxml_tool - INFO - Created backup: /tmp/.arxml_backups/tmpcr1oxd_g.arxml.20250426_141856.bak
+2025-04-26 14:18:56,278 - arxml_tool - INFO - Created backup: /tmp/.arxml_backups/tmpcr1oxd_g.arxml.20250426_141856.bak
+2025-04-26 14:18:56,279 - arxml_tool - INFO - Saved ARXML file to: /tmp/tmpcr1oxd_g.arxml
+2025-04-26 14:18:56,279 - arxml_tool - INFO - Saved ARXML file to: /tmp/tmpcr1oxd_g.arxml
+2025-04-26 14:18:56,282 - arxml_tool - ERROR - Error initializing packages: Invalid role name: SystemDesign
+2025-04-26 14:18:56,282 - arxml_tool - ERROR - Error initializing packages: Invalid role name: SystemDesign
+2025-04-26 14:18:56,282 - arxml_tool - ERROR - Error initializing packages: Invalid role name: SystemDesign
+2025-04-26 14:18:56,283 - arxml_tool - INFO - Loading ARXML file for editing: /tmp/tmpcr1oxd_g.arxml
+2025-04-26 14:18:56,283 - arxml_tool - INFO - Loading ARXML file for editing: /tmp/tmpcr1oxd_g.arxml
+2025-04-26 14:18:56,283 - arxml_tool - INFO - Loading ARXML file for editing: /tmp/tmpcr1oxd_g.arxml
+2025-04-26 14:18:56,284 - arxml_tool - INFO - Loading ARXML file: /tmp/tmpcr1oxd_g.arxml
+2025-04-26 14:18:56,284 - arxml_tool - INFO - Loading ARXML file: /tmp/tmpcr1oxd_g.arxml
+2025-04-26 14:18:56,284 - arxml_tool - INFO - Loading ARXML file: /tmp/tmpcr1oxd_g.arxml
+2025-04-26 14:18:56,285 - arxml_tool - ERROR - Error initializing packages: Invalid role name: SystemDesign
+2025-04-26 14:18:56,285 - arxml_tool - ERROR - Error initializing packages: Invalid role name: SystemDesign
+2025-04-26 14:18:56,285 - arxml_tool - ERROR - Error initializing packages: Invalid role name: SystemDesign
+2025-04-26 14:18:56,478 - arxml_tool - WARNING - Failed to download schema: HTTP 404
+2025-04-26 14:18:56,478 - arxml_tool - WARNING - Failed to download schema: HTTP 404
+2025-04-26 14:18:56,478 - arxml_tool - WARNING - Failed to download schema: HTTP 404
+2025-04-26 14:18:56,480 - arxml_tool - WARNING - Could not load schema, skipping validation
+2025-04-26 14:18:56,480 - arxml_tool - WARNING - Could not load schema, skipping validation
+2025-04-26 14:18:56,480 - arxml_tool - WARNING - Could not load schema, skipping validation
+2025-04-26 14:18:56,480 - arxml_tool - INFO - Successfully loaded ARXML file
+2025-04-26 14:18:56,480 - arxml_tool - INFO - Successfully loaded ARXML file
+2025-04-26 14:18:56,480 - arxml_tool - INFO - Successfully loaded ARXML file
+2025-04-26 14:18:56,481 - arxml_tool - ERROR - Error initializing packages: Invalid role name: SystemDesign
+2025-04-26 14:18:56,481 - arxml_tool - ERROR - Error initializing packages: Invalid role name: SystemDesign
+2025-04-26 14:18:56,481 - arxml_tool - ERROR - Error initializing packages: Invalid role name: SystemDesign
+2025-04-26 14:18:56,481 - arxml_tool - ERROR - Error initializing packages: Invalid role name: SystemDesign
+2025-04-26 14:18:56,482 - arxml_tool - INFO - Loading ARXML file for editing: /tmp/tmpcr1oxd_g.arxml
+2025-04-26 14:18:56,482 - arxml_tool - INFO - Loading ARXML file for editing: /tmp/tmpcr1oxd_g.arxml
+2025-04-26 14:18:56,482 - arxml_tool - INFO - Loading ARXML file for editing: /tmp/tmpcr1oxd_g.arxml
+2025-04-26 14:18:56,482 - arxml_tool - INFO - Loading ARXML file for editing: /tmp/tmpcr1oxd_g.arxml
+2025-04-26 14:18:56,482 - arxml_tool - INFO - Loading ARXML file for editing: /tmp/tmpcr1oxd_g.arxml
+2025-04-26 14:18:56,483 - arxml_tool - INFO - Loading ARXML file: /tmp/tmpcr1oxd_g.arxml
+2025-04-26 14:18:56,483 - arxml_tool - INFO - Loading ARXML file: /tmp/tmpcr1oxd_g.arxml
+2025-04-26 14:18:56,483 - arxml_tool - INFO - Loading ARXML file: /tmp/tmpcr1oxd_g.arxml
+2025-04-26 14:18:56,483 - arxml_tool - INFO - Loading ARXML file: /tmp/tmpcr1oxd_g.arxml
+2025-04-26 14:18:56,483 - arxml_tool - INFO - Loading ARXML file: /tmp/tmpcr1oxd_g.arxml
+2025-04-26 14:18:56,484 - arxml_tool - ERROR - Error initializing packages: Invalid role name: SystemDesign
+2025-04-26 14:18:56,484 - arxml_tool - ERROR - Error initializing packages: Invalid role name: SystemDesign
+2025-04-26 14:18:56,484 - arxml_tool - ERROR - Error initializing packages: Invalid role name: SystemDesign
+2025-04-26 14:18:56,484 - arxml_tool - ERROR - Error initializing packages: Invalid role name: SystemDesign
+2025-04-26 14:18:56,484 - arxml_tool - ERROR - Error initializing packages: Invalid role name: SystemDesign
+2025-04-26 14:18:56,693 - arxml_tool - WARNING - Failed to download schema: HTTP 404
+2025-04-26 14:18:56,693 - arxml_tool - WARNING - Failed to download schema: HTTP 404
+2025-04-26 14:18:56,693 - arxml_tool - WARNING - Failed to download schema: HTTP 404
+2025-04-26 14:18:56,693 - arxml_tool - WARNING - Failed to download schema: HTTP 404
+2025-04-26 14:18:56,693 - arxml_tool - WARNING - Failed to download schema: HTTP 404
+2025-04-26 14:18:56,694 - arxml_tool - WARNING - Could not load schema, skipping validation
+2025-04-26 14:18:56,694 - arxml_tool - WARNING - Could not load schema, skipping validation
+2025-04-26 14:18:56,694 - arxml_tool - WARNING - Could not load schema, skipping validation
+2025-04-26 14:18:56,694 - arxml_tool - WARNING - Could not load schema, skipping validation
+2025-04-26 14:18:56,694 - arxml_tool - WARNING - Could not load schema, skipping validation
+2025-04-26 14:18:56,695 - arxml_tool - INFO - Successfully loaded ARXML file
+2025-04-26 14:18:56,695 - arxml_tool - INFO - Successfully loaded ARXML file
+2025-04-26 14:18:56,695 - arxml_tool - INFO - Successfully loaded ARXML file
+2025-04-26 14:18:56,695 - arxml_tool - INFO - Successfully loaded ARXML file
+2025-04-26 14:18:56,695 - arxml_tool - INFO - Successfully loaded ARXML file
+2025-04-26 14:18:56,696 - arxml_tool - ERROR - Error initializing packages: Invalid role name: SystemDesign
+2025-04-26 14:18:56,696 - arxml_tool - ERROR - Error initializing packages: Invalid role name: SystemDesign
+2025-04-26 14:18:56,696 - arxml_tool - ERROR - Error initializing packages: Invalid role name: SystemDesign
+2025-04-26 14:18:56,696 - arxml_tool - ERROR - Error initializing packages: Invalid role name: SystemDesign
+2025-04-26 14:18:56,696 - arxml_tool - ERROR - Error initializing packages: Invalid role name: SystemDesign
+2025-04-26 14:18:56,696 - arxml_tool - ERROR - Error initializing packages: Invalid role name: SystemDesign
+2025-04-26 14:18:56,696 - arxml_tool - INFO - Loading ARXML file for editing: /home/adarsh/autosar_arxml-parser_editor/tests/../examples/sample.arxml
+2025-04-26 14:18:56,696 - arxml_tool - INFO - Loading ARXML file for editing: /home/adarsh/autosar_arxml-parser_editor/tests/../examples/sample.arxml
+2025-04-26 14:18:56,696 - arxml_tool - INFO - Loading ARXML file for editing: /home/adarsh/autosar_arxml-parser_editor/tests/../examples/sample.arxml
+2025-04-26 14:18:56,696 - arxml_tool - INFO - Loading ARXML file for editing: /home/adarsh/autosar_arxml-parser_editor/tests/../examples/sample.arxml
+2025-04-26 14:18:56,696 - arxml_tool - INFO - Loading ARXML file for editing: /home/adarsh/autosar_arxml-parser_editor/tests/../examples/sample.arxml
+2025-04-26 14:18:56,696 - arxml_tool - INFO - Loading ARXML file for editing: /home/adarsh/autosar_arxml-parser_editor/tests/../examples/sample.arxml
+2025-04-26 14:18:56,696 - arxml_tool - INFO - Loading ARXML file for editing: /home/adarsh/autosar_arxml-parser_editor/tests/../examples/sample.arxml
+2025-04-26 14:18:56,697 - arxml_tool - INFO - Loading ARXML file: /home/adarsh/autosar_arxml-parser_editor/tests/../examples/sample.arxml
+2025-04-26 14:18:56,697 - arxml_tool - INFO - Loading ARXML file: /home/adarsh/autosar_arxml-parser_editor/tests/../examples/sample.arxml
+2025-04-26 14:18:56,697 - arxml_tool - INFO - Loading ARXML file: /home/adarsh/autosar_arxml-parser_editor/tests/../examples/sample.arxml
+2025-04-26 14:18:56,697 - arxml_tool - INFO - Loading ARXML file: /home/adarsh/autosar_arxml-parser_editor/tests/../examples/sample.arxml
+2025-04-26 14:18:56,697 - arxml_tool - INFO - Loading ARXML file: /home/adarsh/autosar_arxml-parser_editor/tests/../examples/sample.arxml
+2025-04-26 14:18:56,697 - arxml_tool - INFO - Loading ARXML file: /home/adarsh/autosar_arxml-parser_editor/tests/../examples/sample.arxml
+2025-04-26 14:18:56,697 - arxml_tool - INFO - Loading ARXML file: /home/adarsh/autosar_arxml-parser_editor/tests/../examples/sample.arxml
+2025-04-26 14:18:56,698 - arxml_tool - ERROR - Error initializing packages: Invalid role name: SystemDesign
+2025-04-26 14:18:56,698 - arxml_tool - ERROR - Error initializing packages: Invalid role name: SystemDesign
+2025-04-26 14:18:56,698 - arxml_tool - ERROR - Error initializing packages: Invalid role name: SystemDesign
+2025-04-26 14:18:56,698 - arxml_tool - ERROR - Error initializing packages: Invalid role name: SystemDesign
+2025-04-26 14:18:56,698 - arxml_tool - ERROR - Error initializing packages: Invalid role name: SystemDesign
+2025-04-26 14:18:56,698 - arxml_tool - ERROR - Error initializing packages: Invalid role name: SystemDesign
+2025-04-26 14:18:56,698 - arxml_tool - ERROR - Error initializing packages: Invalid role name: SystemDesign
+2025-04-26 14:18:56,919 - arxml_tool - WARNING - Failed to download schema: HTTP 404
+2025-04-26 14:18:56,919 - arxml_tool - WARNING - Failed to download schema: HTTP 404
+2025-04-26 14:18:56,919 - arxml_tool - WARNING - Failed to download schema: HTTP 404
+2025-04-26 14:18:56,919 - arxml_tool - WARNING - Failed to download schema: HTTP 404
+2025-04-26 14:18:56,919 - arxml_tool - WARNING - Failed to download schema: HTTP 404
+2025-04-26 14:18:56,919 - arxml_tool - WARNING - Failed to download schema: HTTP 404
+2025-04-26 14:18:56,919 - arxml_tool - WARNING - Failed to download schema: HTTP 404
+2025-04-26 14:18:56,920 - arxml_tool - WARNING - Could not load schema, skipping validation
+2025-04-26 14:18:56,920 - arxml_tool - WARNING - Could not load schema, skipping validation
+2025-04-26 14:18:56,920 - arxml_tool - WARNING - Could not load schema, skipping validation
+2025-04-26 14:18:56,920 - arxml_tool - WARNING - Could not load schema, skipping validation
+2025-04-26 14:18:56,920 - arxml_tool - WARNING - Could not load schema, skipping validation
+2025-04-26 14:18:56,920 - arxml_tool - WARNING - Could not load schema, skipping validation
+2025-04-26 14:18:56,920 - arxml_tool - WARNING - Could not load schema, skipping validation
+2025-04-26 14:18:56,921 - arxml_tool - INFO - Successfully loaded ARXML file
+2025-04-26 14:18:56,921 - arxml_tool - INFO - Successfully loaded ARXML file
+2025-04-26 14:18:56,921 - arxml_tool - INFO - Successfully loaded ARXML file
+2025-04-26 14:18:56,921 - arxml_tool - INFO - Successfully loaded ARXML file
+2025-04-26 14:18:56,921 - arxml_tool - INFO - Successfully loaded ARXML file
+2025-04-26 14:18:56,921 - arxml_tool - INFO - Successfully loaded ARXML file
+2025-04-26 14:18:56,921 - arxml_tool - INFO - Successfully loaded ARXML file
+2025-04-26 14:18:56,921 - arxml_tool - INFO - Added software component: TestReloadComponent
+2025-04-26 14:18:56,921 - arxml_tool - INFO - Added software component: TestReloadComponent
+2025-04-26 14:18:56,921 - arxml_tool - INFO - Added software component: TestReloadComponent
+2025-04-26 14:18:56,921 - arxml_tool - INFO - Added software component: TestReloadComponent
+2025-04-26 14:18:56,921 - arxml_tool - INFO - Added software component: TestReloadComponent
+2025-04-26 14:18:56,921 - arxml_tool - INFO - Added software component: TestReloadComponent
+2025-04-26 14:18:56,921 - arxml_tool - INFO - Added software component: TestReloadComponent
+2025-04-26 14:18:56,922 - arxml_tool - INFO - Added software component: TestReloadComponent
+2025-04-26 14:18:56,922 - arxml_tool - INFO - Added software component: TestReloadComponent
+2025-04-26 14:18:56,922 - arxml_tool - INFO - Added software component: TestReloadComponent
+2025-04-26 14:18:56,922 - arxml_tool - INFO - Added software component: TestReloadComponent
+2025-04-26 14:18:56,922 - arxml_tool - INFO - Added software component: TestReloadComponent
+2025-04-26 14:18:56,922 - arxml_tool - INFO - Added software component: TestReloadComponent
+2025-04-26 14:18:56,922 - arxml_tool - INFO - Added software component: TestReloadComponent
+2025-04-26 14:18:56,923 - arxml_tool - INFO - Created backup: /tmp/.arxml_backups/tmp83g5j7v4.arxml.20250426_141856.bak
+2025-04-26 14:18:56,923 - arxml_tool - INFO - Created backup: /tmp/.arxml_backups/tmp83g5j7v4.arxml.20250426_141856.bak
+2025-04-26 14:18:56,923 - arxml_tool - INFO - Created backup: /tmp/.arxml_backups/tmp83g5j7v4.arxml.20250426_141856.bak
+2025-04-26 14:18:56,923 - arxml_tool - INFO - Created backup: /tmp/.arxml_backups/tmp83g5j7v4.arxml.20250426_141856.bak
+2025-04-26 14:18:56,923 - arxml_tool - INFO - Created backup: /tmp/.arxml_backups/tmp83g5j7v4.arxml.20250426_141856.bak
+2025-04-26 14:18:56,923 - arxml_tool - INFO - Created backup: /tmp/.arxml_backups/tmp83g5j7v4.arxml.20250426_141856.bak
+2025-04-26 14:18:56,923 - arxml_tool - INFO - Created backup: /tmp/.arxml_backups/tmp83g5j7v4.arxml.20250426_141856.bak
+2025-04-26 14:18:56,925 - arxml_tool - INFO - Saved ARXML file to: /tmp/tmp83g5j7v4.arxml
+2025-04-26 14:18:56,925 - arxml_tool - INFO - Saved ARXML file to: /tmp/tmp83g5j7v4.arxml
+2025-04-26 14:18:56,925 - arxml_tool - INFO - Saved ARXML file to: /tmp/tmp83g5j7v4.arxml
+2025-04-26 14:18:56,925 - arxml_tool - INFO - Saved ARXML file to: /tmp/tmp83g5j7v4.arxml
+2025-04-26 14:18:56,925 - arxml_tool - INFO - Saved ARXML file to: /tmp/tmp83g5j7v4.arxml
+2025-04-26 14:18:56,925 - arxml_tool - INFO - Saved ARXML file to: /tmp/tmp83g5j7v4.arxml
+2025-04-26 14:18:56,925 - arxml_tool - INFO - Saved ARXML file to: /tmp/tmp83g5j7v4.arxml
+2025-04-26 14:18:56,926 - arxml_tool - ERROR - Error initializing packages: Invalid role name: SystemDesign
+2025-04-26 14:18:56,926 - arxml_tool - ERROR - Error initializing packages: Invalid role name: SystemDesign
+2025-04-26 14:18:56,926 - arxml_tool - ERROR - Error initializing packages: Invalid role name: SystemDesign
+2025-04-26 14:18:56,926 - arxml_tool - ERROR - Error initializing packages: Invalid role name: SystemDesign
+2025-04-26 14:18:56,926 - arxml_tool - ERROR - Error initializing packages: Invalid role name: SystemDesign
+2025-04-26 14:18:56,926 - arxml_tool - ERROR - Error initializing packages: Invalid role name: SystemDesign
+2025-04-26 14:18:56,926 - arxml_tool - ERROR - Error initializing packages: Invalid role name: SystemDesign
+2025-04-26 14:18:56,926 - arxml_tool - ERROR - Error initializing packages: Invalid role name: SystemDesign
+2025-04-26 14:18:56,927 - arxml_tool - INFO - Loading ARXML file for editing: /tmp/tmp83g5j7v4.arxml
+2025-04-26 14:18:56,927 - arxml_tool - INFO - Loading ARXML file for editing: /tmp/tmp83g5j7v4.arxml
+2025-04-26 14:18:56,927 - arxml_tool - INFO - Loading ARXML file for editing: /tmp/tmp83g5j7v4.arxml
+2025-04-26 14:18:56,927 - arxml_tool - INFO - Loading ARXML file for editing: /tmp/tmp83g5j7v4.arxml
+2025-04-26 14:18:56,927 - arxml_tool - INFO - Loading ARXML file for editing: /tmp/tmp83g5j7v4.arxml
+2025-04-26 14:18:56,927 - arxml_tool - INFO - Loading ARXML file for editing: /tmp/tmp83g5j7v4.arxml
+2025-04-26 14:18:56,927 - arxml_tool - INFO - Loading ARXML file for editing: /tmp/tmp83g5j7v4.arxml
+2025-04-26 14:18:56,927 - arxml_tool - INFO - Loading ARXML file for editing: /tmp/tmp83g5j7v4.arxml
+2025-04-26 14:18:56,927 - arxml_tool - INFO - Loading ARXML file for editing: /tmp/tmp83g5j7v4.arxml
+2025-04-26 14:18:56,928 - arxml_tool - INFO - Loading ARXML file: /tmp/tmp83g5j7v4.arxml
+2025-04-26 14:18:56,928 - arxml_tool - INFO - Loading ARXML file: /tmp/tmp83g5j7v4.arxml
+2025-04-26 14:18:56,928 - arxml_tool - INFO - Loading ARXML file: /tmp/tmp83g5j7v4.arxml
+2025-04-26 14:18:56,928 - arxml_tool - INFO - Loading ARXML file: /tmp/tmp83g5j7v4.arxml
+2025-04-26 14:18:56,928 - arxml_tool - INFO - Loading ARXML file: /tmp/tmp83g5j7v4.arxml
+2025-04-26 14:18:56,928 - arxml_tool - INFO - Loading ARXML file: /tmp/tmp83g5j7v4.arxml
+2025-04-26 14:18:56,928 - arxml_tool - INFO - Loading ARXML file: /tmp/tmp83g5j7v4.arxml
+2025-04-26 14:18:56,928 - arxml_tool - INFO - Loading ARXML file: /tmp/tmp83g5j7v4.arxml
+2025-04-26 14:18:56,928 - arxml_tool - INFO - Loading ARXML file: /tmp/tmp83g5j7v4.arxml
+2025-04-26 14:18:56,928 - arxml_tool - ERROR - Error initializing packages: Invalid role name: SystemDesign
+2025-04-26 14:18:56,928 - arxml_tool - ERROR - Error initializing packages: Invalid role name: SystemDesign
+2025-04-26 14:18:56,928 - arxml_tool - ERROR - Error initializing packages: Invalid role name: SystemDesign
+2025-04-26 14:18:56,928 - arxml_tool - ERROR - Error initializing packages: Invalid role name: SystemDesign
+2025-04-26 14:18:56,928 - arxml_tool - ERROR - Error initializing packages: Invalid role name: SystemDesign
+2025-04-26 14:18:56,928 - arxml_tool - ERROR - Error initializing packages: Invalid role name: SystemDesign
+2025-04-26 14:18:56,928 - arxml_tool - ERROR - Error initializing packages: Invalid role name: SystemDesign
+2025-04-26 14:18:56,928 - arxml_tool - ERROR - Error initializing packages: Invalid role name: SystemDesign
+2025-04-26 14:18:56,928 - arxml_tool - ERROR - Error initializing packages: Invalid role name: SystemDesign
+2025-04-26 14:18:57,181 - arxml_tool - WARNING - Failed to download schema: HTTP 404
+2025-04-26 14:18:57,181 - arxml_tool - WARNING - Failed to download schema: HTTP 404
+2025-04-26 14:18:57,181 - arxml_tool - WARNING - Failed to download schema: HTTP 404
+2025-04-26 14:18:57,181 - arxml_tool - WARNING - Failed to download schema: HTTP 404
+2025-04-26 14:18:57,181 - arxml_tool - WARNING - Failed to download schema: HTTP 404
+2025-04-26 14:18:57,181 - arxml_tool - WARNING - Failed to download schema: HTTP 404
+2025-04-26 14:18:57,181 - arxml_tool - WARNING - Failed to download schema: HTTP 404
+2025-04-26 14:18:57,181 - arxml_tool - WARNING - Failed to download schema: HTTP 404
+2025-04-26 14:18:57,181 - arxml_tool - WARNING - Failed to download schema: HTTP 404
+2025-04-26 14:18:57,182 - arxml_tool - WARNING - Could not load schema, skipping validation
+2025-04-26 14:18:57,182 - arxml_tool - WARNING - Could not load schema, skipping validation
+2025-04-26 14:18:57,182 - arxml_tool - WARNING - Could not load schema, skipping validation
+2025-04-26 14:18:57,182 - arxml_tool - WARNING - Could not load schema, skipping validation
+2025-04-26 14:18:57,182 - arxml_tool - WARNING - Could not load schema, skipping validation
+2025-04-26 14:18:57,182 - arxml_tool - WARNING - Could not load schema, skipping validation
+2025-04-26 14:18:57,182 - arxml_tool - WARNING - Could not load schema, skipping validation
+2025-04-26 14:18:57,182 - arxml_tool - WARNING - Could not load schema, skipping validation
+2025-04-26 14:18:57,182 - arxml_tool - WARNING - Could not load schema, skipping validation
+2025-04-26 14:18:57,183 - arxml_tool - INFO - Successfully loaded ARXML file
+2025-04-26 14:18:57,183 - arxml_tool - INFO - Successfully loaded ARXML file
+2025-04-26 14:18:57,183 - arxml_tool - INFO - Successfully loaded ARXML file
+2025-04-26 14:18:57,183 - arxml_tool - INFO - Successfully loaded ARXML file
+2025-04-26 14:18:57,183 - arxml_tool - INFO - Successfully loaded ARXML file
+2025-04-26 14:18:57,183 - arxml_tool - INFO - Successfully loaded ARXML file
+2025-04-26 14:18:57,183 - arxml_tool - INFO - Successfully loaded ARXML file
+2025-04-26 14:18:57,183 - arxml_tool - INFO - Successfully loaded ARXML file
+2025-04-26 14:18:57,183 - arxml_tool - INFO - Successfully loaded ARXML file
+2025-04-26 14:18:57,184 - arxml_tool - ERROR - Error initializing packages: Invalid role name: SystemDesign
+2025-04-26 14:18:57,184 - arxml_tool - ERROR - Error initializing packages: Invalid role name: SystemDesign
+2025-04-26 14:18:57,184 - arxml_tool - ERROR - Error initializing packages: Invalid role name: SystemDesign
+2025-04-26 14:18:57,184 - arxml_tool - ERROR - Error initializing packages: Invalid role name: SystemDesign
+2025-04-26 14:18:57,184 - arxml_tool - ERROR - Error initializing packages: Invalid role name: SystemDesign
+2025-04-26 14:18:57,184 - arxml_tool - ERROR - Error initializing packages: Invalid role name: SystemDesign
+2025-04-26 14:18:57,184 - arxml_tool - ERROR - Error initializing packages: Invalid role name: SystemDesign
+2025-04-26 14:18:57,184 - arxml_tool - ERROR - Error initializing packages: Invalid role name: SystemDesign
+2025-04-26 14:18:57,184 - arxml_tool - ERROR - Error initializing packages: Invalid role name: SystemDesign
+2025-04-26 14:18:57,185 - arxml_tool - INFO - Loading ARXML file for editing: /home/adarsh/autosar_arxml-parser_editor/tests/../examples/sample.arxml
+2025-04-26 14:18:57,185 - arxml_tool - INFO - Loading ARXML file for editing: /home/adarsh/autosar_arxml-parser_editor/tests/../examples/sample.arxml
+2025-04-26 14:18:57,185 - arxml_tool - INFO - Loading ARXML file for editing: /home/adarsh/autosar_arxml-parser_editor/tests/../examples/sample.arxml
+2025-04-26 14:18:57,185 - arxml_tool - INFO - Loading ARXML file for editing: /home/adarsh/autosar_arxml-parser_editor/tests/../examples/sample.arxml
+2025-04-26 14:18:57,185 - arxml_tool - INFO - Loading ARXML file for editing: /home/adarsh/autosar_arxml-parser_editor/tests/../examples/sample.arxml
+2025-04-26 14:18:57,185 - arxml_tool - INFO - Loading ARXML file for editing: /home/adarsh/autosar_arxml-parser_editor/tests/../examples/sample.arxml
+2025-04-26 14:18:57,185 - arxml_tool - INFO - Loading ARXML file for editing: /home/adarsh/autosar_arxml-parser_editor/tests/../examples/sample.arxml
+2025-04-26 14:18:57,185 - arxml_tool - INFO - Loading ARXML file for editing: /home/adarsh/autosar_arxml-parser_editor/tests/../examples/sample.arxml
+2025-04-26 14:18:57,185 - arxml_tool - INFO - Loading ARXML file for editing: /home/adarsh/autosar_arxml-parser_editor/tests/../examples/sample.arxml
+2025-04-26 14:18:57,185 - arxml_tool - INFO - Loading ARXML file: /home/adarsh/autosar_arxml-parser_editor/tests/../examples/sample.arxml
+2025-04-26 14:18:57,185 - arxml_tool - INFO - Loading ARXML file: /home/adarsh/autosar_arxml-parser_editor/tests/../examples/sample.arxml
+2025-04-26 14:18:57,185 - arxml_tool - INFO - Loading ARXML file: /home/adarsh/autosar_arxml-parser_editor/tests/../examples/sample.arxml
+2025-04-26 14:18:57,185 - arxml_tool - INFO - Loading ARXML file: /home/adarsh/autosar_arxml-parser_editor/tests/../examples/sample.arxml
+2025-04-26 14:18:57,185 - arxml_tool - INFO - Loading ARXML file: /home/adarsh/autosar_arxml-parser_editor/tests/../examples/sample.arxml
+2025-04-26 14:18:57,185 - arxml_tool - INFO - Loading ARXML file: /home/adarsh/autosar_arxml-parser_editor/tests/../examples/sample.arxml
+2025-04-26 14:18:57,185 - arxml_tool - INFO - Loading ARXML file: /home/adarsh/autosar_arxml-parser_editor/tests/../examples/sample.arxml
+2025-04-26 14:18:57,185 - arxml_tool - INFO - Loading ARXML file: /home/adarsh/autosar_arxml-parser_editor/tests/../examples/sample.arxml
+2025-04-26 14:18:57,185 - arxml_tool - INFO - Loading ARXML file: /home/adarsh/autosar_arxml-parser_editor/tests/../examples/sample.arxml
+2025-04-26 14:18:57,186 - arxml_tool - ERROR - Error initializing packages: Invalid role name: SystemDesign
+2025-04-26 14:18:57,186 - arxml_tool - ERROR - Error initializing packages: Invalid role name: SystemDesign
+2025-04-26 14:18:57,186 - arxml_tool - ERROR - Error initializing packages: Invalid role name: SystemDesign
+2025-04-26 14:18:57,186 - arxml_tool - ERROR - Error initializing packages: Invalid role name: SystemDesign
+2025-04-26 14:18:57,186 - arxml_tool - ERROR - Error initializing packages: Invalid role name: SystemDesign
+2025-04-26 14:18:57,186 - arxml_tool - ERROR - Error initializing packages: Invalid role name: SystemDesign
+2025-04-26 14:18:57,186 - arxml_tool - ERROR - Error initializing packages: Invalid role name: SystemDesign
+2025-04-26 14:18:57,186 - arxml_tool - ERROR - Error initializing packages: Invalid role name: SystemDesign
+2025-04-26 14:18:57,186 - arxml_tool - ERROR - Error initializing packages: Invalid role name: SystemDesign
+2025-04-26 14:18:57,406 - arxml_tool - WARNING - Failed to download schema: HTTP 404
+2025-04-26 14:18:57,406 - arxml_tool - WARNING - Failed to download schema: HTTP 404
+2025-04-26 14:18:57,406 - arxml_tool - WARNING - Failed to download schema: HTTP 404
+2025-04-26 14:18:57,406 - arxml_tool - WARNING - Failed to download schema: HTTP 404
+2025-04-26 14:18:57,406 - arxml_tool - WARNING - Failed to download schema: HTTP 404
+2025-04-26 14:18:57,406 - arxml_tool - WARNING - Failed to download schema: HTTP 404
+2025-04-26 14:18:57,406 - arxml_tool - WARNING - Failed to download schema: HTTP 404
+2025-04-26 14:18:57,406 - arxml_tool - WARNING - Failed to download schema: HTTP 404
+2025-04-26 14:18:57,406 - arxml_tool - WARNING - Failed to download schema: HTTP 404
+2025-04-26 14:18:57,407 - arxml_tool - WARNING - Could not load schema, skipping validation
+2025-04-26 14:18:57,407 - arxml_tool - WARNING - Could not load schema, skipping validation
+2025-04-26 14:18:57,407 - arxml_tool - WARNING - Could not load schema, skipping validation
+2025-04-26 14:18:57,407 - arxml_tool - WARNING - Could not load schema, skipping validation
+2025-04-26 14:18:57,407 - arxml_tool - WARNING - Could not load schema, skipping validation
+2025-04-26 14:18:57,407 - arxml_tool - WARNING - Could not load schema, skipping validation
+2025-04-26 14:18:57,407 - arxml_tool - WARNING - Could not load schema, skipping validation
+2025-04-26 14:18:57,407 - arxml_tool - WARNING - Could not load schema, skipping validation
+2025-04-26 14:18:57,407 - arxml_tool - WARNING - Could not load schema, skipping validation
+2025-04-26 14:18:57,408 - arxml_tool - INFO - Successfully loaded ARXML file
+2025-04-26 14:18:57,408 - arxml_tool - INFO - Successfully loaded ARXML file
+2025-04-26 14:18:57,408 - arxml_tool - INFO - Successfully loaded ARXML file
+2025-04-26 14:18:57,408 - arxml_tool - INFO - Successfully loaded ARXML file
+2025-04-26 14:18:57,408 - arxml_tool - INFO - Successfully loaded ARXML file
+2025-04-26 14:18:57,408 - arxml_tool - INFO - Successfully loaded ARXML file
+2025-04-26 14:18:57,408 - arxml_tool - INFO - Successfully loaded ARXML file
+2025-04-26 14:18:57,408 - arxml_tool - INFO - Successfully loaded ARXML file
+2025-04-26 14:18:57,408 - arxml_tool - INFO - Successfully loaded ARXML file
+2025-04-26 14:18:57,409 - arxml_tool - INFO - Created backup: /tmp/.arxml_backups/tmpbv1fr_m8.arxml.20250426_141857.bak
+2025-04-26 14:18:57,409 - arxml_tool - INFO - Created backup: /tmp/.arxml_backups/tmpbv1fr_m8.arxml.20250426_141857.bak
+2025-04-26 14:18:57,409 - arxml_tool - INFO - Created backup: /tmp/.arxml_backups/tmpbv1fr_m8.arxml.20250426_141857.bak
+2025-04-26 14:18:57,409 - arxml_tool - INFO - Created backup: /tmp/.arxml_backups/tmpbv1fr_m8.arxml.20250426_141857.bak
+2025-04-26 14:18:57,409 - arxml_tool - INFO - Created backup: /tmp/.arxml_backups/tmpbv1fr_m8.arxml.20250426_141857.bak
+2025-04-26 14:18:57,409 - arxml_tool - INFO - Created backup: /tmp/.arxml_backups/tmpbv1fr_m8.arxml.20250426_141857.bak
+2025-04-26 14:18:57,409 - arxml_tool - INFO - Created backup: /tmp/.arxml_backups/tmpbv1fr_m8.arxml.20250426_141857.bak
+2025-04-26 14:18:57,409 - arxml_tool - INFO - Created backup: /tmp/.arxml_backups/tmpbv1fr_m8.arxml.20250426_141857.bak
+2025-04-26 14:18:57,409 - arxml_tool - INFO - Created backup: /tmp/.arxml_backups/tmpbv1fr_m8.arxml.20250426_141857.bak
+2025-04-26 14:18:57,411 - arxml_tool - INFO - Saved ARXML file to: /tmp/tmpbv1fr_m8.arxml
+2025-04-26 14:18:57,411 - arxml_tool - INFO - Saved ARXML file to: /tmp/tmpbv1fr_m8.arxml
+2025-04-26 14:18:57,411 - arxml_tool - INFO - Saved ARXML file to: /tmp/tmpbv1fr_m8.arxml
+2025-04-26 14:18:57,411 - arxml_tool - INFO - Saved ARXML file to: /tmp/tmpbv1fr_m8.arxml
+2025-04-26 14:18:57,411 - arxml_tool - INFO - Saved ARXML file to: /tmp/tmpbv1fr_m8.arxml
+2025-04-26 14:18:57,411 - arxml_tool - INFO - Saved ARXML file to: /tmp/tmpbv1fr_m8.arxml
+2025-04-26 14:18:57,411 - arxml_tool - INFO - Saved ARXML file to: /tmp/tmpbv1fr_m8.arxml
+2025-04-26 14:18:57,411 - arxml_tool - INFO - Saved ARXML file to: /tmp/tmpbv1fr_m8.arxml
+2025-04-26 14:18:57,411 - arxml_tool - INFO - Saved ARXML file to: /tmp/tmpbv1fr_m8.arxml
+2025-04-26 14:18:57,413 - arxml_tool - ERROR - Error initializing packages: Invalid role name: SystemDesign
+2025-04-26 14:18:57,413 - arxml_tool - ERROR - Error initializing packages: Invalid role name: SystemDesign
+2025-04-26 14:18:57,413 - arxml_tool - ERROR - Error initializing packages: Invalid role name: SystemDesign
+2025-04-26 14:18:57,413 - arxml_tool - ERROR - Error initializing packages: Invalid role name: SystemDesign
+2025-04-26 14:18:57,413 - arxml_tool - ERROR - Error initializing packages: Invalid role name: SystemDesign
+2025-04-26 14:18:57,413 - arxml_tool - ERROR - Error initializing packages: Invalid role name: SystemDesign
+2025-04-26 14:18:57,413 - arxml_tool - ERROR - Error initializing packages: Invalid role name: SystemDesign
+2025-04-26 14:18:57,413 - arxml_tool - ERROR - Error initializing packages: Invalid role name: SystemDesign
+2025-04-26 14:18:57,413 - arxml_tool - ERROR - Error initializing packages: Invalid role name: SystemDesign
+2025-04-26 14:18:57,415 - arxml_tool - INFO - Loading ARXML file: /home/adarsh/autosar_arxml-parser_editor/tests/../examples/sample.arxml
+2025-04-26 14:18:57,415 - arxml_tool - INFO - Loading ARXML file: /home/adarsh/autosar_arxml-parser_editor/tests/../examples/sample.arxml
+2025-04-26 14:18:57,415 - arxml_tool - INFO - Loading ARXML file: /home/adarsh/autosar_arxml-parser_editor/tests/../examples/sample.arxml
+2025-04-26 14:18:57,415 - arxml_tool - INFO - Loading ARXML file: /home/adarsh/autosar_arxml-parser_editor/tests/../examples/sample.arxml
+2025-04-26 14:18:57,415 - arxml_tool - INFO - Loading ARXML file: /home/adarsh/autosar_arxml-parser_editor/tests/../examples/sample.arxml
+2025-04-26 14:18:57,415 - arxml_tool - INFO - Loading ARXML file: /home/adarsh/autosar_arxml-parser_editor/tests/../examples/sample.arxml
+2025-04-26 14:18:57,415 - arxml_tool - INFO - Loading ARXML file: /home/adarsh/autosar_arxml-parser_editor/tests/../examples/sample.arxml
+2025-04-26 14:18:57,415 - arxml_tool - INFO - Loading ARXML file: /home/adarsh/autosar_arxml-parser_editor/tests/../examples/sample.arxml
+2025-04-26 14:18:57,415 - arxml_tool - INFO - Loading ARXML file: /home/adarsh/autosar_arxml-parser_editor/tests/../examples/sample.arxml
+2025-04-26 14:18:57,416 - arxml_tool - ERROR - Error initializing packages: Invalid role name: SystemDesign
+2025-04-26 14:18:57,416 - arxml_tool - ERROR - Error initializing packages: Invalid role name: SystemDesign
+2025-04-26 14:18:57,416 - arxml_tool - ERROR - Error initializing packages: Invalid role name: SystemDesign
+2025-04-26 14:18:57,416 - arxml_tool - ERROR - Error initializing packages: Invalid role name: SystemDesign
+2025-04-26 14:18:57,416 - arxml_tool - ERROR - Error initializing packages: Invalid role name: SystemDesign
+2025-04-26 14:18:57,416 - arxml_tool - ERROR - Error initializing packages: Invalid role name: SystemDesign
+2025-04-26 14:18:57,416 - arxml_tool - ERROR - Error initializing packages: Invalid role name: SystemDesign
+2025-04-26 14:18:57,416 - arxml_tool - ERROR - Error initializing packages: Invalid role name: SystemDesign
+2025-04-26 14:18:57,416 - arxml_tool - ERROR - Error initializing packages: Invalid role name: SystemDesign
+2025-04-26 14:18:57,608 - arxml_tool - WARNING - Failed to download schema: HTTP 404
+2025-04-26 14:18:57,608 - arxml_tool - WARNING - Failed to download schema: HTTP 404
+2025-04-26 14:18:57,608 - arxml_tool - WARNING - Failed to download schema: HTTP 404
+2025-04-26 14:18:57,608 - arxml_tool - WARNING - Failed to download schema: HTTP 404
+2025-04-26 14:18:57,608 - arxml_tool - WARNING - Failed to download schema: HTTP 404
+2025-04-26 14:18:57,608 - arxml_tool - WARNING - Failed to download schema: HTTP 404
+2025-04-26 14:18:57,608 - arxml_tool - WARNING - Failed to download schema: HTTP 404
+2025-04-26 14:18:57,608 - arxml_tool - WARNING - Failed to download schema: HTTP 404
+2025-04-26 14:18:57,608 - arxml_tool - WARNING - Failed to download schema: HTTP 404
+2025-04-26 14:18:57,610 - arxml_tool - WARNING - Could not load schema, skipping validation
+2025-04-26 14:18:57,610 - arxml_tool - WARNING - Could not load schema, skipping validation
+2025-04-26 14:18:57,610 - arxml_tool - WARNING - Could not load schema, skipping validation
+2025-04-26 14:18:57,610 - arxml_tool - WARNING - Could not load schema, skipping validation
+2025-04-26 14:18:57,610 - arxml_tool - WARNING - Could not load schema, skipping validation
+2025-04-26 14:18:57,610 - arxml_tool - WARNING - Could not load schema, skipping validation
+2025-04-26 14:18:57,610 - arxml_tool - WARNING - Could not load schema, skipping validation
+2025-04-26 14:18:57,610 - arxml_tool - WARNING - Could not load schema, skipping validation
+2025-04-26 14:18:57,610 - arxml_tool - WARNING - Could not load schema, skipping validation
+2025-04-26 14:18:57,611 - arxml_tool - INFO - Successfully loaded ARXML file
+2025-04-26 14:18:57,611 - arxml_tool - INFO - Successfully loaded ARXML file
+2025-04-26 14:18:57,611 - arxml_tool - INFO - Successfully loaded ARXML file
+2025-04-26 14:18:57,611 - arxml_tool - INFO - Successfully loaded ARXML file
+2025-04-26 14:18:57,611 - arxml_tool - INFO - Successfully loaded ARXML file
+2025-04-26 14:18:57,611 - arxml_tool - INFO - Successfully loaded ARXML file
+2025-04-26 14:18:57,611 - arxml_tool - INFO - Successfully loaded ARXML file
+2025-04-26 14:18:57,611 - arxml_tool - INFO - Successfully loaded ARXML file
+2025-04-26 14:18:57,611 - arxml_tool - INFO - Successfully loaded ARXML file
+2025-04-26 14:18:57,613 - arxml_tool - ERROR - Error initializing packages: Invalid role name: SystemDesign
+2025-04-26 14:18:57,613 - arxml_tool - ERROR - Error initializing packages: Invalid role name: SystemDesign
+2025-04-26 14:18:57,613 - arxml_tool - ERROR - Error initializing packages: Invalid role name: SystemDesign
+2025-04-26 14:18:57,613 - arxml_tool - ERROR - Error initializing packages: Invalid role name: SystemDesign
+2025-04-26 14:18:57,613 - arxml_tool - ERROR - Error initializing packages: Invalid role name: SystemDesign
+2025-04-26 14:18:57,613 - arxml_tool - ERROR - Error initializing packages: Invalid role name: SystemDesign
+2025-04-26 14:18:57,613 - arxml_tool - ERROR - Error initializing packages: Invalid role name: SystemDesign
+2025-04-26 14:18:57,613 - arxml_tool - ERROR - Error initializing packages: Invalid role name: SystemDesign
+2025-04-26 14:18:57,613 - arxml_tool - ERROR - Error initializing packages: Invalid role name: SystemDesign
+2025-04-26 14:18:57,615 - arxml_tool - INFO - Loading ARXML file: /home/adarsh/autosar_arxml-parser_editor/tests/../examples/sample.arxml
+2025-04-26 14:18:57,615 - arxml_tool - INFO - Loading ARXML file: /home/adarsh/autosar_arxml-parser_editor/tests/../examples/sample.arxml
+2025-04-26 14:18:57,615 - arxml_tool - INFO - Loading ARXML file: /home/adarsh/autosar_arxml-parser_editor/tests/../examples/sample.arxml
+2025-04-26 14:18:57,615 - arxml_tool - INFO - Loading ARXML file: /home/adarsh/autosar_arxml-parser_editor/tests/../examples/sample.arxml
+2025-04-26 14:18:57,615 - arxml_tool - INFO - Loading ARXML file: /home/adarsh/autosar_arxml-parser_editor/tests/../examples/sample.arxml
+2025-04-26 14:18:57,615 - arxml_tool - INFO - Loading ARXML file: /home/adarsh/autosar_arxml-parser_editor/tests/../examples/sample.arxml
+2025-04-26 14:18:57,615 - arxml_tool - INFO - Loading ARXML file: /home/adarsh/autosar_arxml-parser_editor/tests/../examples/sample.arxml
+2025-04-26 14:18:57,615 - arxml_tool - INFO - Loading ARXML file: /home/adarsh/autosar_arxml-parser_editor/tests/../examples/sample.arxml
+2025-04-26 14:18:57,615 - arxml_tool - INFO - Loading ARXML file: /home/adarsh/autosar_arxml-parser_editor/tests/../examples/sample.arxml
+2025-04-26 14:18:57,616 - arxml_tool - ERROR - Error initializing packages: Invalid role name: SystemDesign
+2025-04-26 14:18:57,616 - arxml_tool - ERROR - Error initializing packages: Invalid role name: SystemDesign
+2025-04-26 14:18:57,616 - arxml_tool - ERROR - Error initializing packages: Invalid role name: SystemDesign
+2025-04-26 14:18:57,616 - arxml_tool - ERROR - Error initializing packages: Invalid role name: SystemDesign
+2025-04-26 14:18:57,616 - arxml_tool - ERROR - Error initializing packages: Invalid role name: SystemDesign
+2025-04-26 14:18:57,616 - arxml_tool - ERROR - Error initializing packages: Invalid role name: SystemDesign
+2025-04-26 14:18:57,616 - arxml_tool - ERROR - Error initializing packages: Invalid role name: SystemDesign
+2025-04-26 14:18:57,616 - arxml_tool - ERROR - Error initializing packages: Invalid role name: SystemDesign
+2025-04-26 14:18:57,616 - arxml_tool - ERROR - Error initializing packages: Invalid role name: SystemDesign
+2025-04-26 14:18:57,826 - arxml_tool - WARNING - Failed to download schema: HTTP 404
+2025-04-26 14:18:57,826 - arxml_tool - WARNING - Failed to download schema: HTTP 404
+2025-04-26 14:18:57,826 - arxml_tool - WARNING - Failed to download schema: HTTP 404
+2025-04-26 14:18:57,826 - arxml_tool - WARNING - Failed to download schema: HTTP 404
+2025-04-26 14:18:57,826 - arxml_tool - WARNING - Failed to download schema: HTTP 404
+2025-04-26 14:18:57,826 - arxml_tool - WARNING - Failed to download schema: HTTP 404
+2025-04-26 14:18:57,826 - arxml_tool - WARNING - Failed to download schema: HTTP 404
+2025-04-26 14:18:57,826 - arxml_tool - WARNING - Failed to download schema: HTTP 404
+2025-04-26 14:18:57,826 - arxml_tool - WARNING - Failed to download schema: HTTP 404
+2025-04-26 14:18:57,828 - arxml_tool - WARNING - Could not load schema, skipping validation
+2025-04-26 14:18:57,828 - arxml_tool - WARNING - Could not load schema, skipping validation
+2025-04-26 14:18:57,828 - arxml_tool - WARNING - Could not load schema, skipping validation
+2025-04-26 14:18:57,828 - arxml_tool - WARNING - Could not load schema, skipping validation
+2025-04-26 14:18:57,828 - arxml_tool - WARNING - Could not load schema, skipping validation
+2025-04-26 14:18:57,828 - arxml_tool - WARNING - Could not load schema, skipping validation
+2025-04-26 14:18:57,828 - arxml_tool - WARNING - Could not load schema, skipping validation
+2025-04-26 14:18:57,828 - arxml_tool - WARNING - Could not load schema, skipping validation
+2025-04-26 14:18:57,828 - arxml_tool - WARNING - Could not load schema, skipping validation
+2025-04-26 14:18:57,830 - arxml_tool - INFO - Successfully loaded ARXML file
+2025-04-26 14:18:57,830 - arxml_tool - INFO - Successfully loaded ARXML file
+2025-04-26 14:18:57,830 - arxml_tool - INFO - Successfully loaded ARXML file
+2025-04-26 14:18:57,830 - arxml_tool - INFO - Successfully loaded ARXML file
+2025-04-26 14:18:57,830 - arxml_tool - INFO - Successfully loaded ARXML file
+2025-04-26 14:18:57,830 - arxml_tool - INFO - Successfully loaded ARXML file
+2025-04-26 14:18:57,830 - arxml_tool - INFO - Successfully loaded ARXML file
+2025-04-26 14:18:57,830 - arxml_tool - INFO - Successfully loaded ARXML file
+2025-04-26 14:18:57,830 - arxml_tool - INFO - Successfully loaded ARXML file
+2025-04-26 14:18:57,833 - arxml_tool - ERROR - Error initializing packages: Invalid role name: SystemDesign
+2025-04-26 14:18:57,833 - arxml_tool - ERROR - Error initializing packages: Invalid role name: SystemDesign
+2025-04-26 14:18:57,833 - arxml_tool - ERROR - Error initializing packages: Invalid role name: SystemDesign
+2025-04-26 14:18:57,833 - arxml_tool - ERROR - Error initializing packages: Invalid role name: SystemDesign
+2025-04-26 14:18:57,833 - arxml_tool - ERROR - Error initializing packages: Invalid role name: SystemDesign
+2025-04-26 14:18:57,833 - arxml_tool - ERROR - Error initializing packages: Invalid role name: SystemDesign
+2025-04-26 14:18:57,833 - arxml_tool - ERROR - Error initializing packages: Invalid role name: SystemDesign
+2025-04-26 14:18:57,833 - arxml_tool - ERROR - Error initializing packages: Invalid role name: SystemDesign
+2025-04-26 14:18:57,833 - arxml_tool - ERROR - Error initializing packages: Invalid role name: SystemDesign
+2025-04-26 14:18:57,836 - arxml_tool - ERROR - ARXML file not found: non_existent_file.arxml
+2025-04-26 14:18:57,836 - arxml_tool - ERROR - ARXML file not found: non_existent_file.arxml
+2025-04-26 14:18:57,836 - arxml_tool - ERROR - ARXML file not found: non_existent_file.arxml
+2025-04-26 14:18:57,836 - arxml_tool - ERROR - ARXML file not found: non_existent_file.arxml
+2025-04-26 14:18:57,836 - arxml_tool - ERROR - ARXML file not found: non_existent_file.arxml
+2025-04-26 14:18:57,836 - arxml_tool - ERROR - ARXML file not found: non_existent_file.arxml
+2025-04-26 14:18:57,836 - arxml_tool - ERROR - ARXML file not found: non_existent_file.arxml
+2025-04-26 14:18:57,836 - arxml_tool - ERROR - ARXML file not found: non_existent_file.arxml
+2025-04-26 14:18:57,836 - arxml_tool - ERROR - ARXML file not found: non_existent_file.arxml
+2025-04-26 14:18:57,840 - arxml_tool - ERROR - Error initializing packages: Invalid role name: SystemDesign
+2025-04-26 14:18:57,840 - arxml_tool - ERROR - Error initializing packages: Invalid role name: SystemDesign
+2025-04-26 14:18:57,840 - arxml_tool - ERROR - Error initializing packages: Invalid role name: SystemDesign
+2025-04-26 14:18:57,840 - arxml_tool - ERROR - Error initializing packages: Invalid role name: SystemDesign
+2025-04-26 14:18:57,840 - arxml_tool - ERROR - Error initializing packages: Invalid role name: SystemDesign
+2025-04-26 14:18:57,840 - arxml_tool - ERROR - Error initializing packages: Invalid role name: SystemDesign
+2025-04-26 14:18:57,840 - arxml_tool - ERROR - Error initializing packages: Invalid role name: SystemDesign
+2025-04-26 14:18:57,840 - arxml_tool - ERROR - Error initializing packages: Invalid role name: SystemDesign
+2025-04-26 14:18:57,840 - arxml_tool - ERROR - Error initializing packages: Invalid role name: SystemDesign
+2025-04-26 14:18:57,842 - arxml_tool - INFO - Loading ARXML file: /home/adarsh/autosar_arxml-parser_editor/tests/../examples/sample.arxml
+2025-04-26 14:18:57,842 - arxml_tool - INFO - Loading ARXML file: /home/adarsh/autosar_arxml-parser_editor/tests/../examples/sample.arxml
+2025-04-26 14:18:57,842 - arxml_tool - INFO - Loading ARXML file: /home/adarsh/autosar_arxml-parser_editor/tests/../examples/sample.arxml
+2025-04-26 14:18:57,842 - arxml_tool - INFO - Loading ARXML file: /home/adarsh/autosar_arxml-parser_editor/tests/../examples/sample.arxml
+2025-04-26 14:18:57,842 - arxml_tool - INFO - Loading ARXML file: /home/adarsh/autosar_arxml-parser_editor/tests/../examples/sample.arxml
+2025-04-26 14:18:57,842 - arxml_tool - INFO - Loading ARXML file: /home/adarsh/autosar_arxml-parser_editor/tests/../examples/sample.arxml
+2025-04-26 14:18:57,842 - arxml_tool - INFO - Loading ARXML file: /home/adarsh/autosar_arxml-parser_editor/tests/../examples/sample.arxml
+2025-04-26 14:18:57,842 - arxml_tool - INFO - Loading ARXML file: /home/adarsh/autosar_arxml-parser_editor/tests/../examples/sample.arxml
+2025-04-26 14:18:57,842 - arxml_tool - INFO - Loading ARXML file: /home/adarsh/autosar_arxml-parser_editor/tests/../examples/sample.arxml
+2025-04-26 14:18:57,844 - arxml_tool - ERROR - Error initializing packages: Invalid role name: SystemDesign
+2025-04-26 14:18:57,844 - arxml_tool - ERROR - Error initializing packages: Invalid role name: SystemDesign
+2025-04-26 14:18:57,844 - arxml_tool - ERROR - Error initializing packages: Invalid role name: SystemDesign
+2025-04-26 14:18:57,844 - arxml_tool - ERROR - Error initializing packages: Invalid role name: SystemDesign
+2025-04-26 14:18:57,844 - arxml_tool - ERROR - Error initializing packages: Invalid role name: SystemDesign
+2025-04-26 14:18:57,844 - arxml_tool - ERROR - Error initializing packages: Invalid role name: SystemDesign
+2025-04-26 14:18:57,844 - arxml_tool - ERROR - Error initializing packages: Invalid role name: SystemDesign
+2025-04-26 14:18:57,844 - arxml_tool - ERROR - Error initializing packages: Invalid role name: SystemDesign
+2025-04-26 14:18:57,844 - arxml_tool - ERROR - Error initializing packages: Invalid role name: SystemDesign
+2025-04-26 14:18:58,114 - arxml_tool - WARNING - Failed to download schema: HTTP 404
+2025-04-26 14:18:58,114 - arxml_tool - WARNING - Failed to download schema: HTTP 404
+2025-04-26 14:18:58,114 - arxml_tool - WARNING - Failed to download schema: HTTP 404
+2025-04-26 14:18:58,114 - arxml_tool - WARNING - Failed to download schema: HTTP 404
+2025-04-26 14:18:58,114 - arxml_tool - WARNING - Failed to download schema: HTTP 404
+2025-04-26 14:18:58,114 - arxml_tool - WARNING - Failed to download schema: HTTP 404
+2025-04-26 14:18:58,114 - arxml_tool - WARNING - Failed to download schema: HTTP 404
+2025-04-26 14:18:58,114 - arxml_tool - WARNING - Failed to download schema: HTTP 404
+2025-04-26 14:18:58,114 - arxml_tool - WARNING - Failed to download schema: HTTP 404
+2025-04-26 14:18:58,116 - arxml_tool - WARNING - Could not load schema, skipping validation
+2025-04-26 14:18:58,116 - arxml_tool - WARNING - Could not load schema, skipping validation
+2025-04-26 14:18:58,116 - arxml_tool - WARNING - Could not load schema, skipping validation
+2025-04-26 14:18:58,116 - arxml_tool - WARNING - Could not load schema, skipping validation
+2025-04-26 14:18:58,116 - arxml_tool - WARNING - Could not load schema, skipping validation
+2025-04-26 14:18:58,116 - arxml_tool - WARNING - Could not load schema, skipping validation
+2025-04-26 14:18:58,116 - arxml_tool - WARNING - Could not load schema, skipping validation
+2025-04-26 14:18:58,116 - arxml_tool - WARNING - Could not load schema, skipping validation
+2025-04-26 14:18:58,116 - arxml_tool - WARNING - Could not load schema, skipping validation
+2025-04-26 14:18:58,118 - arxml_tool - INFO - Successfully loaded ARXML file
+2025-04-26 14:18:58,118 - arxml_tool - INFO - Successfully loaded ARXML file
+2025-04-26 14:18:58,118 - arxml_tool - INFO - Successfully loaded ARXML file
+2025-04-26 14:18:58,118 - arxml_tool - INFO - Successfully loaded ARXML file
+2025-04-26 14:18:58,118 - arxml_tool - INFO - Successfully loaded ARXML file
+2025-04-26 14:18:58,118 - arxml_tool - INFO - Successfully loaded ARXML file
+2025-04-26 14:18:58,118 - arxml_tool - INFO - Successfully loaded ARXML file
+2025-04-26 14:18:58,118 - arxml_tool - INFO - Successfully loaded ARXML file
+2025-04-26 14:18:58,118 - arxml_tool - INFO - Successfully loaded ARXML file
+2025-04-26 14:18:58,121 - arxml_tool - ERROR - Error initializing packages: Invalid role name: SystemDesign
+2025-04-26 14:18:58,121 - arxml_tool - ERROR - Error initializing packages: Invalid role name: SystemDesign
+2025-04-26 14:18:58,121 - arxml_tool - ERROR - Error initializing packages: Invalid role name: SystemDesign
+2025-04-26 14:18:58,121 - arxml_tool - ERROR - Error initializing packages: Invalid role name: SystemDesign
+2025-04-26 14:18:58,121 - arxml_tool - ERROR - Error initializing packages: Invalid role name: SystemDesign
+2025-04-26 14:18:58,121 - arxml_tool - ERROR - Error initializing packages: Invalid role name: SystemDesign
+2025-04-26 14:18:58,121 - arxml_tool - ERROR - Error initializing packages: Invalid role name: SystemDesign
+2025-04-26 14:18:58,121 - arxml_tool - ERROR - Error initializing packages: Invalid role name: SystemDesign
+2025-04-26 14:18:58,121 - arxml_tool - ERROR - Error initializing packages: Invalid role name: SystemDesign
+2025-04-26 14:18:58,123 - arxml_tool - INFO - Loading ARXML file: /tmp/tmpddovmmvp.arxml
+2025-04-26 14:18:58,123 - arxml_tool - INFO - Loading ARXML file: /tmp/tmpddovmmvp.arxml
+2025-04-26 14:18:58,123 - arxml_tool - INFO - Loading ARXML file: /tmp/tmpddovmmvp.arxml
+2025-04-26 14:18:58,123 - arxml_tool - INFO - Loading ARXML file: /tmp/tmpddovmmvp.arxml
+2025-04-26 14:18:58,123 - arxml_tool - INFO - Loading ARXML file: /tmp/tmpddovmmvp.arxml
+2025-04-26 14:18:58,123 - arxml_tool - INFO - Loading ARXML file: /tmp/tmpddovmmvp.arxml
+2025-04-26 14:18:58,123 - arxml_tool - INFO - Loading ARXML file: /tmp/tmpddovmmvp.arxml
+2025-04-26 14:18:58,123 - arxml_tool - INFO - Loading ARXML file: /tmp/tmpddovmmvp.arxml
+2025-04-26 14:18:58,123 - arxml_tool - INFO - Loading ARXML file: /tmp/tmpddovmmvp.arxml
+2025-04-26 14:18:58,125 - arxml_tool - ERROR - Error initializing packages: Invalid role name: SystemDesign
+2025-04-26 14:18:58,125 - arxml_tool - ERROR - Error initializing packages: Invalid role name: SystemDesign
+2025-04-26 14:18:58,125 - arxml_tool - ERROR - Error initializing packages: Invalid role name: SystemDesign
+2025-04-26 14:18:58,125 - arxml_tool - ERROR - Error initializing packages: Invalid role name: SystemDesign
+2025-04-26 14:18:58,125 - arxml_tool - ERROR - Error initializing packages: Invalid role name: SystemDesign
+2025-04-26 14:18:58,125 - arxml_tool - ERROR - Error initializing packages: Invalid role name: SystemDesign
+2025-04-26 14:18:58,125 - arxml_tool - ERROR - Error initializing packages: Invalid role name: SystemDesign
+2025-04-26 14:18:58,125 - arxml_tool - ERROR - Error initializing packages: Invalid role name: SystemDesign
+2025-04-26 14:18:58,125 - arxml_tool - ERROR - Error initializing packages: Invalid role name: SystemDesign
+2025-04-26 14:18:58,128 - arxml_tool - ERROR - Error loading XML content: 
+2025-04-26 14:18:58,128 - arxml_tool - ERROR - Error loading XML content: 
+2025-04-26 14:18:58,128 - arxml_tool - ERROR - Error loading XML content: 
+2025-04-26 14:18:58,128 - arxml_tool - ERROR - Error loading XML content: 
+2025-04-26 14:18:58,128 - arxml_tool - ERROR - Error loading XML content: 
+2025-04-26 14:18:58,128 - arxml_tool - ERROR - Error loading XML content: 
+2025-04-26 14:18:58,128 - arxml_tool - ERROR - Error loading XML content: 
+2025-04-26 14:18:58,128 - arxml_tool - ERROR - Error loading XML content: 
+2025-04-26 14:18:58,128 - arxml_tool - ERROR - Error loading XML content: 
+2025-04-26 14:18:58,132 - arxml_tool - ERROR - Error initializing packages: Invalid role name: SystemDesign
+2025-04-26 14:18:58,132 - arxml_tool - ERROR - Error initializing packages: Invalid role name: SystemDesign
+2025-04-26 14:18:58,132 - arxml_tool - ERROR - Error initializing packages: Invalid role name: SystemDesign
+2025-04-26 14:18:58,132 - arxml_tool - ERROR - Error initializing packages: Invalid role name: SystemDesign
+2025-04-26 14:18:58,132 - arxml_tool - ERROR - Error initializing packages: Invalid role name: SystemDesign
+2025-04-26 14:18:58,132 - arxml_tool - ERROR - Error initializing packages: Invalid role name: SystemDesign
+2025-04-26 14:18:58,132 - arxml_tool - ERROR - Error initializing packages: Invalid role name: SystemDesign
+2025-04-26 14:18:58,132 - arxml_tool - ERROR - Error initializing packages: Invalid role name: SystemDesign
+2025-04-26 14:18:58,132 - arxml_tool - ERROR - Error initializing packages: Invalid role name: SystemDesign
+2025-04-26 14:18:58,135 - arxml_tool - INFO - Loading ARXML file: /home/adarsh/autosar_arxml-parser_editor/tests/../examples/sample.arxml
+2025-04-26 14:18:58,135 - arxml_tool - INFO - Loading ARXML file: /home/adarsh/autosar_arxml-parser_editor/tests/../examples/sample.arxml
+2025-04-26 14:18:58,135 - arxml_tool - INFO - Loading ARXML file: /home/adarsh/autosar_arxml-parser_editor/tests/../examples/sample.arxml
+2025-04-26 14:18:58,135 - arxml_tool - INFO - Loading ARXML file: /home/adarsh/autosar_arxml-parser_editor/tests/../examples/sample.arxml
+2025-04-26 14:18:58,135 - arxml_tool - INFO - Loading ARXML file: /home/adarsh/autosar_arxml-parser_editor/tests/../examples/sample.arxml
+2025-04-26 14:18:58,135 - arxml_tool - INFO - Loading ARXML file: /home/adarsh/autosar_arxml-parser_editor/tests/../examples/sample.arxml
+2025-04-26 14:18:58,135 - arxml_tool - INFO - Loading ARXML file: /home/adarsh/autosar_arxml-parser_editor/tests/../examples/sample.arxml
+2025-04-26 14:18:58,135 - arxml_tool - INFO - Loading ARXML file: /home/adarsh/autosar_arxml-parser_editor/tests/../examples/sample.arxml
+2025-04-26 14:18:58,135 - arxml_tool - INFO - Loading ARXML file: /home/adarsh/autosar_arxml-parser_editor/tests/../examples/sample.arxml
+2025-04-26 14:18:58,138 - arxml_tool - ERROR - Error initializing packages: Invalid role name: SystemDesign
+2025-04-26 14:18:58,138 - arxml_tool - ERROR - Error initializing packages: Invalid role name: SystemDesign
+2025-04-26 14:18:58,138 - arxml_tool - ERROR - Error initializing packages: Invalid role name: SystemDesign
+2025-04-26 14:18:58,138 - arxml_tool - ERROR - Error initializing packages: Invalid role name: SystemDesign
+2025-04-26 14:18:58,138 - arxml_tool - ERROR - Error initializing packages: Invalid role name: SystemDesign
+2025-04-26 14:18:58,138 - arxml_tool - ERROR - Error initializing packages: Invalid role name: SystemDesign
+2025-04-26 14:18:58,138 - arxml_tool - ERROR - Error initializing packages: Invalid role name: SystemDesign
+2025-04-26 14:18:58,138 - arxml_tool - ERROR - Error initializing packages: Invalid role name: SystemDesign
+2025-04-26 14:18:58,138 - arxml_tool - ERROR - Error initializing packages: Invalid role name: SystemDesign
+2025-04-26 14:18:58,363 - arxml_tool - WARNING - Failed to download schema: HTTP 404
+2025-04-26 14:18:58,363 - arxml_tool - WARNING - Failed to download schema: HTTP 404
+2025-04-26 14:18:58,363 - arxml_tool - WARNING - Failed to download schema: HTTP 404
+2025-04-26 14:18:58,363 - arxml_tool - WARNING - Failed to download schema: HTTP 404
+2025-04-26 14:18:58,363 - arxml_tool - WARNING - Failed to download schema: HTTP 404
+2025-04-26 14:18:58,363 - arxml_tool - WARNING - Failed to download schema: HTTP 404
+2025-04-26 14:18:58,363 - arxml_tool - WARNING - Failed to download schema: HTTP 404
+2025-04-26 14:18:58,363 - arxml_tool - WARNING - Failed to download schema: HTTP 404
+2025-04-26 14:18:58,363 - arxml_tool - WARNING - Failed to download schema: HTTP 404
+2025-04-26 14:18:58,366 - arxml_tool - WARNING - Could not load schema, skipping validation
+2025-04-26 14:18:58,366 - arxml_tool - WARNING - Could not load schema, skipping validation
+2025-04-26 14:18:58,366 - arxml_tool - WARNING - Could not load schema, skipping validation
+2025-04-26 14:18:58,366 - arxml_tool - WARNING - Could not load schema, skipping validation
+2025-04-26 14:18:58,366 - arxml_tool - WARNING - Could not load schema, skipping validation
+2025-04-26 14:18:58,366 - arxml_tool - WARNING - Could not load schema, skipping validation
+2025-04-26 14:18:58,366 - arxml_tool - WARNING - Could not load schema, skipping validation
+2025-04-26 14:18:58,366 - arxml_tool - WARNING - Could not load schema, skipping validation
+2025-04-26 14:18:58,366 - arxml_tool - WARNING - Could not load schema, skipping validation
+2025-04-26 14:18:58,368 - arxml_tool - INFO - Successfully loaded ARXML file
+2025-04-26 14:18:58,368 - arxml_tool - INFO - Successfully loaded ARXML file
+2025-04-26 14:18:58,368 - arxml_tool - INFO - Successfully loaded ARXML file
+2025-04-26 14:18:58,368 - arxml_tool - INFO - Successfully loaded ARXML file
+2025-04-26 14:18:58,368 - arxml_tool - INFO - Successfully loaded ARXML file
+2025-04-26 14:18:58,368 - arxml_tool - INFO - Successfully loaded ARXML file
+2025-04-26 14:18:58,368 - arxml_tool - INFO - Successfully loaded ARXML file
+2025-04-26 14:18:58,368 - arxml_tool - INFO - Successfully loaded ARXML file
+2025-04-26 14:18:58,368 - arxml_tool - INFO - Successfully loaded ARXML file

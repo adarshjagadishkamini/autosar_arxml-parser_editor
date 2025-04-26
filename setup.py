@@ -18,9 +18,10 @@ setup(
     packages=find_packages(),
     include_package_data=True,
     install_requires=[
-        "autosar-python>=0.3.2",  # Specify minimum version
+        "autosar>=0.3.2",
         "lxml>=4.9.0",
         "click>=8.0.0",
+        "requests>=2.28.0",  # For schema downloads
     ],
     entry_points={
         "console_scripts": [

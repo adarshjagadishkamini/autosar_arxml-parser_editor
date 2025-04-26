@@ -1,0 +1,46 @@
+2025-04-26 14:13:39,139 - arxml_tool - INFO - Loading ARXML file: /home/adarsh/autosar_arxml-parser_editor/tests/../examples/sample.arxml
+2025-04-26 14:13:39,341 - arxml_tool - WARNING - Failed to download schema: HTTP 404
+2025-04-26 14:13:39,343 - arxml_tool - WARNING - Could not load schema, skipping validation
+2025-04-26 14:13:39,344 - arxml_tool - INFO - Successfully loaded ARXML file
+2025-04-26 14:13:39,346 - arxml_tool - ERROR - ARXML file not found: non_existent_file.arxml
+2025-04-26 14:13:39,346 - arxml_tool - ERROR - ARXML file not found: non_existent_file.arxml
+2025-04-26 14:13:39,348 - arxml_tool - INFO - Loading ARXML file: /home/adarsh/autosar_arxml-parser_editor/tests/../examples/sample.arxml
+2025-04-26 14:13:39,348 - arxml_tool - INFO - Loading ARXML file: /home/adarsh/autosar_arxml-parser_editor/tests/../examples/sample.arxml
+2025-04-26 14:13:39,348 - arxml_tool - INFO - Loading ARXML file: /home/adarsh/autosar_arxml-parser_editor/tests/../examples/sample.arxml
+2025-04-26 14:13:39,581 - arxml_tool - WARNING - Failed to download schema: HTTP 404
+2025-04-26 14:13:39,581 - arxml_tool - WARNING - Failed to download schema: HTTP 404
+2025-04-26 14:13:39,581 - arxml_tool - WARNING - Failed to download schema: HTTP 404
+2025-04-26 14:13:39,582 - arxml_tool - WARNING - Could not load schema, skipping validation
+2025-04-26 14:13:39,582 - arxml_tool - WARNING - Could not load schema, skipping validation
+2025-04-26 14:13:39,582 - arxml_tool - WARNING - Could not load schema, skipping validation
+2025-04-26 14:13:39,584 - arxml_tool - INFO - Successfully loaded ARXML file
+2025-04-26 14:13:39,584 - arxml_tool - INFO - Successfully loaded ARXML file
+2025-04-26 14:13:39,584 - arxml_tool - INFO - Successfully loaded ARXML file
+2025-04-26 14:13:39,586 - arxml_tool - INFO - Loading ARXML file: /tmp/tmprqrlo0sg.arxml
+2025-04-26 14:13:39,586 - arxml_tool - INFO - Loading ARXML file: /tmp/tmprqrlo0sg.arxml
+2025-04-26 14:13:39,586 - arxml_tool - INFO - Loading ARXML file: /tmp/tmprqrlo0sg.arxml
+2025-04-26 14:13:39,586 - arxml_tool - INFO - Loading ARXML file: /tmp/tmprqrlo0sg.arxml
+2025-04-26 14:13:39,588 - arxml_tool - ERROR - Error parsing ARXML file: 
+2025-04-26 14:13:39,588 - arxml_tool - ERROR - Error parsing ARXML file: 
+2025-04-26 14:13:39,588 - arxml_tool - ERROR - Error parsing ARXML file: 
+2025-04-26 14:13:39,588 - arxml_tool - ERROR - Error parsing ARXML file: 
+2025-04-26 14:13:39,590 - arxml_tool - INFO - Loading ARXML file: /home/adarsh/autosar_arxml-parser_editor/tests/../examples/sample.arxml
+2025-04-26 14:13:39,590 - arxml_tool - INFO - Loading ARXML file: /home/adarsh/autosar_arxml-parser_editor/tests/../examples/sample.arxml
+2025-04-26 14:13:39,590 - arxml_tool - INFO - Loading ARXML file: /home/adarsh/autosar_arxml-parser_editor/tests/../examples/sample.arxml
+2025-04-26 14:13:39,590 - arxml_tool - INFO - Loading ARXML file: /home/adarsh/autosar_arxml-parser_editor/tests/../examples/sample.arxml
+2025-04-26 14:13:39,590 - arxml_tool - INFO - Loading ARXML file: /home/adarsh/autosar_arxml-parser_editor/tests/../examples/sample.arxml
+2025-04-26 14:13:39,826 - arxml_tool - WARNING - Failed to download schema: HTTP 404
+2025-04-26 14:13:39,826 - arxml_tool - WARNING - Failed to download schema: HTTP 404
+2025-04-26 14:13:39,826 - arxml_tool - WARNING - Failed to download schema: HTTP 404
+2025-04-26 14:13:39,826 - arxml_tool - WARNING - Failed to download schema: HTTP 404
+2025-04-26 14:13:39,826 - arxml_tool - WARNING - Failed to download schema: HTTP 404
+2025-04-26 14:13:39,827 - arxml_tool - WARNING - Could not load schema, skipping validation
+2025-04-26 14:13:39,827 - arxml_tool - WARNING - Could not load schema, skipping validation
+2025-04-26 14:13:39,827 - arxml_tool - WARNING - Could not load schema, skipping validation
+2025-04-26 14:13:39,827 - arxml_tool - WARNING - Could not load schema, skipping validation
+2025-04-26 14:13:39,827 - arxml_tool - WARNING - Could not load schema, skipping validation
+2025-04-26 14:13:39,829 - arxml_tool - INFO - Successfully loaded ARXML file
+2025-04-26 14:13:39,829 - arxml_tool - INFO - Successfully loaded ARXML file
+2025-04-26 14:13:39,829 - arxml_tool - INFO - Successfully loaded ARXML file
+2025-04-26 14:13:39,829 - arxml_tool - INFO - Successfully loaded ARXML file
+2025-04-26 14:13:39,829 - arxml_tool - INFO - Successfully loaded ARXML file

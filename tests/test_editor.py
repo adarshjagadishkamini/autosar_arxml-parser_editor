@@ -3,6 +3,7 @@ import sys
 import unittest
 import tempfile
 import glob
+from src.utils import backup
 
 # Add the parent directory to sys.path
 sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
@@ -71,28 +72,42 @@ class TestARXMLEditor(unittest.TestCase):
     
     def test_backup_restore(self):
         """Test restoring from backup"""
-        # Create initial state
-        self.editor.add_software_component("OriginalComponent")
-        self.editor.save(self.temp_file.name)
+        # Load the sample file
+        self.editor.load(self.sample_file)
         
-        # Modify file
+        # Add a component that should be restored from backup
+        self.editor.add_software_component("OriginalComponent")
+        
+        # Create a temp file and save to it
+        with tempfile.NamedTemporaryFile(suffix='.arxml', delete=False) as tf:
+            test_file = tf.name
+            
+        # Save which should create a backup
+        self.editor.save(test_file)
+        
+        # Get the latest backup file
+        backup_pattern = os.path.join(backup.BACKUP_DIR, os.path.basename(test_file) + '.*.bak')
+        backup_files = glob.glob(backup_pattern)
+        latest_backup = max(backup_files, key=os.path.getctime)
+        
+        # Add a new component
         self.editor.add_software_component("NewComponent")
-        self.editor.save(self.temp_file.name)
+        self.editor.save(test_file)
         
         # Restore from backup
-        result = self.editor.restore_from_backup()
-        self.assertTrue(result, "Failed to restore from backup")
+        self.assertTrue(self.editor.restore_from_backup(latest_backup))
         
-        # Verify restored content
-        new_editor = ARXMLEditor()
-        new_editor.load(self.temp_file.name)
-        components = new_editor.parser.get_software_components()
-        found = False
-        for comp in components:
-            if hasattr(comp, 'name') and comp.name == "OriginalComponent":
-                found = True
-                break
+        # Verify the original component is restored
+        components = self.editor.get_software_components()
+        found = any(c.name == "OriginalComponent" for c in components)
         self.assertTrue(found, "Original component not restored from backup")
+        
+        # Cleanup
+        try:
+            os.unlink(test_file)
+            os.unlink(latest_backup)
+        except:
+            pass
 
 if __name__ == '__main__':
     unittest.main()

@@ -1,0 +1,42 @@
+Metadata-Version: 2.4
+Name: arxml-tool
+Version: 0.1.0
+Summary: A tool for parsing and editing AUTOSAR XML (ARXML) files
+Home-page: https://github.com/yourusername/arxml-tool
+Author: Your Name
+Author-email: your.email@example.com
+Keywords: autosar,arxml,automotive,xml,parser,editor
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Topic :: Software Development :: Libraries
+Classifier: Topic :: Text Processing :: Markup :: XML
+Requires-Python: >=3.6
+Requires-Dist: autosar>=0.3.2
+Requires-Dist: lxml>=4.9.0
+Requires-Dist: click>=8.0.0
+Requires-Dist: requests>=2.28.0
+Dynamic: author
+Dynamic: author-email
+Dynamic: classifier
+Dynamic: description
+Dynamic: home-page
+Dynamic: keywords
+Dynamic: requires-dist
+Dynamic: requires-python
+Dynamic: summary
+
+
+ARXML Parser and Editor Tool
+--------------------------
+A Python tool for parsing and editing AUTOSAR XML (ARXML) files.
+Features:
+- Parse ARXML files and display their structure
+- View and modify software components
+- Update parameter values
+- Add new components
+- Merge multiple ARXML files

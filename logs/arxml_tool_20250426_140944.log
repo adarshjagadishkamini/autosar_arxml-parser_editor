@@ -1,0 +1,516 @@
+2025-04-26 14:09:44,124 - arxml_tool - INFO - Loading ARXML file for editing: /home/adarsh/autosar_arxml-parser_editor/tests/../examples/sample.arxml
+2025-04-26 14:09:44,124 - arxml_tool - INFO - Loading ARXML file for editing: /home/adarsh/autosar_arxml-parser_editor/tests/../examples/sample.arxml
+2025-04-26 14:09:44,124 - arxml_tool - INFO - Loading ARXML file: /home/adarsh/autosar_arxml-parser_editor/tests/../examples/sample.arxml
+2025-04-26 14:09:44,124 - arxml_tool - INFO - Loading ARXML file: /home/adarsh/autosar_arxml-parser_editor/tests/../examples/sample.arxml
+2025-04-26 14:09:44,324 - arxml_tool - WARNING - Failed to download schema: HTTP 404
+2025-04-26 14:09:44,324 - arxml_tool - WARNING - Failed to download schema: HTTP 404
+2025-04-26 14:09:44,325 - arxml_tool - WARNING - Could not load schema, skipping validation
+2025-04-26 14:09:44,325 - arxml_tool - WARNING - Could not load schema, skipping validation
+2025-04-26 14:09:44,325 - arxml_tool - INFO - Successfully loaded ARXML file
+2025-04-26 14:09:44,325 - arxml_tool - INFO - Successfully loaded ARXML file
+2025-04-26 14:09:44,327 - arxml_tool - INFO - Added software component: TestComponent
+2025-04-26 14:09:44,327 - arxml_tool - INFO - Added software component: TestComponent
+2025-04-26 14:09:44,329 - arxml_tool - INFO - Loading ARXML file for editing: /home/adarsh/autosar_arxml-parser_editor/tests/../examples/sample.arxml
+2025-04-26 14:09:44,329 - arxml_tool - INFO - Loading ARXML file for editing: /home/adarsh/autosar_arxml-parser_editor/tests/../examples/sample.arxml
+2025-04-26 14:09:44,329 - arxml_tool - INFO - Loading ARXML file for editing: /home/adarsh/autosar_arxml-parser_editor/tests/../examples/sample.arxml
+2025-04-26 14:09:44,329 - arxml_tool - INFO - Loading ARXML file for editing: /home/adarsh/autosar_arxml-parser_editor/tests/../examples/sample.arxml
+2025-04-26 14:09:44,329 - arxml_tool - INFO - Loading ARXML file: /home/adarsh/autosar_arxml-parser_editor/tests/../examples/sample.arxml
+2025-04-26 14:09:44,329 - arxml_tool - INFO - Loading ARXML file: /home/adarsh/autosar_arxml-parser_editor/tests/../examples/sample.arxml
+2025-04-26 14:09:44,329 - arxml_tool - INFO - Loading ARXML file: /home/adarsh/autosar_arxml-parser_editor/tests/../examples/sample.arxml
+2025-04-26 14:09:44,329 - arxml_tool - INFO - Loading ARXML file: /home/adarsh/autosar_arxml-parser_editor/tests/../examples/sample.arxml
+2025-04-26 14:09:44,517 - arxml_tool - WARNING - Failed to download schema: HTTP 404
+2025-04-26 14:09:44,517 - arxml_tool - WARNING - Failed to download schema: HTTP 404
+2025-04-26 14:09:44,517 - arxml_tool - WARNING - Failed to download schema: HTTP 404
+2025-04-26 14:09:44,517 - arxml_tool - WARNING - Failed to download schema: HTTP 404
+2025-04-26 14:09:44,518 - arxml_tool - WARNING - Could not load schema, skipping validation
+2025-04-26 14:09:44,518 - arxml_tool - WARNING - Could not load schema, skipping validation
+2025-04-26 14:09:44,518 - arxml_tool - WARNING - Could not load schema, skipping validation
+2025-04-26 14:09:44,518 - arxml_tool - WARNING - Could not load schema, skipping validation
+2025-04-26 14:09:44,518 - arxml_tool - INFO - Successfully loaded ARXML file
+2025-04-26 14:09:44,518 - arxml_tool - INFO - Successfully loaded ARXML file
+2025-04-26 14:09:44,518 - arxml_tool - INFO - Successfully loaded ARXML file
+2025-04-26 14:09:44,518 - arxml_tool - INFO - Successfully loaded ARXML file
+2025-04-26 14:09:44,519 - arxml_tool - INFO - Added software component: BackupTest
+2025-04-26 14:09:44,519 - arxml_tool - INFO - Added software component: BackupTest
+2025-04-26 14:09:44,519 - arxml_tool - INFO - Added software component: BackupTest
+2025-04-26 14:09:44,519 - arxml_tool - INFO - Added software component: BackupTest
+2025-04-26 14:09:44,519 - arxml_tool - INFO - Created backup: /tmp/.arxml_backups/tmpq_u4wumd.arxml.20250426_140944.bak
+2025-04-26 14:09:44,519 - arxml_tool - INFO - Created backup: /tmp/.arxml_backups/tmpq_u4wumd.arxml.20250426_140944.bak
+2025-04-26 14:09:44,519 - arxml_tool - INFO - Created backup: /tmp/.arxml_backups/tmpq_u4wumd.arxml.20250426_140944.bak
+2025-04-26 14:09:44,519 - arxml_tool - INFO - Created backup: /tmp/.arxml_backups/tmpq_u4wumd.arxml.20250426_140944.bak
+2025-04-26 14:09:44,521 - arxml_tool - ERROR - Error saving ARXML file: Invalid reference: /ComponentTypes/EngineManagement
+2025-04-26 14:09:44,521 - arxml_tool - ERROR - Error saving ARXML file: Invalid reference: /ComponentTypes/EngineManagement
+2025-04-26 14:09:44,521 - arxml_tool - ERROR - Error saving ARXML file: Invalid reference: /ComponentTypes/EngineManagement
+2025-04-26 14:09:44,521 - arxml_tool - ERROR - Error saving ARXML file: Invalid reference: /ComponentTypes/EngineManagement
+2025-04-26 14:09:44,522 - arxml_tool - INFO - Loading ARXML file for editing: /home/adarsh/autosar_arxml-parser_editor/tests/../examples/sample.arxml
+2025-04-26 14:09:44,522 - arxml_tool - INFO - Loading ARXML file for editing: /home/adarsh/autosar_arxml-parser_editor/tests/../examples/sample.arxml
+2025-04-26 14:09:44,522 - arxml_tool - INFO - Loading ARXML file for editing: /home/adarsh/autosar_arxml-parser_editor/tests/../examples/sample.arxml
+2025-04-26 14:09:44,522 - arxml_tool - INFO - Loading ARXML file for editing: /home/adarsh/autosar_arxml-parser_editor/tests/../examples/sample.arxml
+2025-04-26 14:09:44,522 - arxml_tool - INFO - Loading ARXML file for editing: /home/adarsh/autosar_arxml-parser_editor/tests/../examples/sample.arxml
+2025-04-26 14:09:44,522 - arxml_tool - INFO - Loading ARXML file for editing: /home/adarsh/autosar_arxml-parser_editor/tests/../examples/sample.arxml
+2025-04-26 14:09:44,522 - arxml_tool - INFO - Loading ARXML file: /home/adarsh/autosar_arxml-parser_editor/tests/../examples/sample.arxml
+2025-04-26 14:09:44,522 - arxml_tool - INFO - Loading ARXML file: /home/adarsh/autosar_arxml-parser_editor/tests/../examples/sample.arxml
+2025-04-26 14:09:44,522 - arxml_tool - INFO - Loading ARXML file: /home/adarsh/autosar_arxml-parser_editor/tests/../examples/sample.arxml
+2025-04-26 14:09:44,522 - arxml_tool - INFO - Loading ARXML file: /home/adarsh/autosar_arxml-parser_editor/tests/../examples/sample.arxml
+2025-04-26 14:09:44,522 - arxml_tool - INFO - Loading ARXML file: /home/adarsh/autosar_arxml-parser_editor/tests/../examples/sample.arxml
+2025-04-26 14:09:44,522 - arxml_tool - INFO - Loading ARXML file: /home/adarsh/autosar_arxml-parser_editor/tests/../examples/sample.arxml
+2025-04-26 14:09:44,709 - arxml_tool - WARNING - Failed to download schema: HTTP 404
+2025-04-26 14:09:44,709 - arxml_tool - WARNING - Failed to download schema: HTTP 404
+2025-04-26 14:09:44,709 - arxml_tool - WARNING - Failed to download schema: HTTP 404
+2025-04-26 14:09:44,709 - arxml_tool - WARNING - Failed to download schema: HTTP 404
+2025-04-26 14:09:44,709 - arxml_tool - WARNING - Failed to download schema: HTTP 404
+2025-04-26 14:09:44,709 - arxml_tool - WARNING - Failed to download schema: HTTP 404
+2025-04-26 14:09:44,709 - arxml_tool - WARNING - Could not load schema, skipping validation
+2025-04-26 14:09:44,709 - arxml_tool - WARNING - Could not load schema, skipping validation
+2025-04-26 14:09:44,709 - arxml_tool - WARNING - Could not load schema, skipping validation
+2025-04-26 14:09:44,709 - arxml_tool - WARNING - Could not load schema, skipping validation
+2025-04-26 14:09:44,709 - arxml_tool - WARNING - Could not load schema, skipping validation
+2025-04-26 14:09:44,709 - arxml_tool - WARNING - Could not load schema, skipping validation
+2025-04-26 14:09:44,710 - arxml_tool - INFO - Successfully loaded ARXML file
+2025-04-26 14:09:44,710 - arxml_tool - INFO - Successfully loaded ARXML file
+2025-04-26 14:09:44,710 - arxml_tool - INFO - Successfully loaded ARXML file
+2025-04-26 14:09:44,710 - arxml_tool - INFO - Successfully loaded ARXML file
+2025-04-26 14:09:44,710 - arxml_tool - INFO - Successfully loaded ARXML file
+2025-04-26 14:09:44,710 - arxml_tool - INFO - Successfully loaded ARXML file
+2025-04-26 14:09:44,711 - arxml_tool - INFO - Added software component: OriginalComponent
+2025-04-26 14:09:44,711 - arxml_tool - INFO - Added software component: OriginalComponent
+2025-04-26 14:09:44,711 - arxml_tool - INFO - Added software component: OriginalComponent
+2025-04-26 14:09:44,711 - arxml_tool - INFO - Added software component: OriginalComponent
+2025-04-26 14:09:44,711 - arxml_tool - INFO - Added software component: OriginalComponent
+2025-04-26 14:09:44,711 - arxml_tool - INFO - Added software component: OriginalComponent
+2025-04-26 14:09:44,711 - arxml_tool - INFO - Created backup: /tmp/.arxml_backups/tmpapwiplox.arxml.20250426_140944.bak
+2025-04-26 14:09:44,711 - arxml_tool - INFO - Created backup: /tmp/.arxml_backups/tmpapwiplox.arxml.20250426_140944.bak
+2025-04-26 14:09:44,711 - arxml_tool - INFO - Created backup: /tmp/.arxml_backups/tmpapwiplox.arxml.20250426_140944.bak
+2025-04-26 14:09:44,711 - arxml_tool - INFO - Created backup: /tmp/.arxml_backups/tmpapwiplox.arxml.20250426_140944.bak
+2025-04-26 14:09:44,711 - arxml_tool - INFO - Created backup: /tmp/.arxml_backups/tmpapwiplox.arxml.20250426_140944.bak
+2025-04-26 14:09:44,711 - arxml_tool - INFO - Created backup: /tmp/.arxml_backups/tmpapwiplox.arxml.20250426_140944.bak
+2025-04-26 14:09:44,713 - arxml_tool - ERROR - Error saving ARXML file: Invalid reference: /ComponentTypes/EngineManagement
+2025-04-26 14:09:44,713 - arxml_tool - ERROR - Error saving ARXML file: Invalid reference: /ComponentTypes/EngineManagement
+2025-04-26 14:09:44,713 - arxml_tool - ERROR - Error saving ARXML file: Invalid reference: /ComponentTypes/EngineManagement
+2025-04-26 14:09:44,713 - arxml_tool - ERROR - Error saving ARXML file: Invalid reference: /ComponentTypes/EngineManagement
+2025-04-26 14:09:44,713 - arxml_tool - ERROR - Error saving ARXML file: Invalid reference: /ComponentTypes/EngineManagement
+2025-04-26 14:09:44,713 - arxml_tool - ERROR - Error saving ARXML file: Invalid reference: /ComponentTypes/EngineManagement
+2025-04-26 14:09:44,714 - arxml_tool - INFO - Added software component: NewComponent
+2025-04-26 14:09:44,714 - arxml_tool - INFO - Added software component: NewComponent
+2025-04-26 14:09:44,714 - arxml_tool - INFO - Added software component: NewComponent
+2025-04-26 14:09:44,714 - arxml_tool - INFO - Added software component: NewComponent
+2025-04-26 14:09:44,714 - arxml_tool - INFO - Added software component: NewComponent
+2025-04-26 14:09:44,714 - arxml_tool - INFO - Added software component: NewComponent
+2025-04-26 14:09:44,714 - arxml_tool - INFO - Created backup: /tmp/.arxml_backups/tmpapwiplox.arxml.20250426_140944.bak
+2025-04-26 14:09:44,714 - arxml_tool - INFO - Created backup: /tmp/.arxml_backups/tmpapwiplox.arxml.20250426_140944.bak
+2025-04-26 14:09:44,714 - arxml_tool - INFO - Created backup: /tmp/.arxml_backups/tmpapwiplox.arxml.20250426_140944.bak
+2025-04-26 14:09:44,714 - arxml_tool - INFO - Created backup: /tmp/.arxml_backups/tmpapwiplox.arxml.20250426_140944.bak
+2025-04-26 14:09:44,714 - arxml_tool - INFO - Created backup: /tmp/.arxml_backups/tmpapwiplox.arxml.20250426_140944.bak
+2025-04-26 14:09:44,714 - arxml_tool - INFO - Created backup: /tmp/.arxml_backups/tmpapwiplox.arxml.20250426_140944.bak
+2025-04-26 14:09:44,715 - arxml_tool - ERROR - Error saving ARXML file: Invalid reference: /ComponentTypes/EngineManagement
+2025-04-26 14:09:44,715 - arxml_tool - ERROR - Error saving ARXML file: Invalid reference: /ComponentTypes/EngineManagement
+2025-04-26 14:09:44,715 - arxml_tool - ERROR - Error saving ARXML file: Invalid reference: /ComponentTypes/EngineManagement
+2025-04-26 14:09:44,715 - arxml_tool - ERROR - Error saving ARXML file: Invalid reference: /ComponentTypes/EngineManagement
+2025-04-26 14:09:44,715 - arxml_tool - ERROR - Error saving ARXML file: Invalid reference: /ComponentTypes/EngineManagement
+2025-04-26 14:09:44,715 - arxml_tool - ERROR - Error saving ARXML file: Invalid reference: /ComponentTypes/EngineManagement
+2025-04-26 14:09:44,717 - arxml_tool - INFO - Loading ARXML file for editing: /home/adarsh/autosar_arxml-parser_editor/tests/../examples/sample.arxml
+2025-04-26 14:09:44,717 - arxml_tool - INFO - Loading ARXML file for editing: /home/adarsh/autosar_arxml-parser_editor/tests/../examples/sample.arxml
+2025-04-26 14:09:44,717 - arxml_tool - INFO - Loading ARXML file for editing: /home/adarsh/autosar_arxml-parser_editor/tests/../examples/sample.arxml
+2025-04-26 14:09:44,717 - arxml_tool - INFO - Loading ARXML file for editing: /home/adarsh/autosar_arxml-parser_editor/tests/../examples/sample.arxml
+2025-04-26 14:09:44,717 - arxml_tool - INFO - Loading ARXML file for editing: /home/adarsh/autosar_arxml-parser_editor/tests/../examples/sample.arxml
+2025-04-26 14:09:44,717 - arxml_tool - INFO - Loading ARXML file for editing: /home/adarsh/autosar_arxml-parser_editor/tests/../examples/sample.arxml
+2025-04-26 14:09:44,717 - arxml_tool - INFO - Loading ARXML file for editing: /home/adarsh/autosar_arxml-parser_editor/tests/../examples/sample.arxml
+2025-04-26 14:09:44,717 - arxml_tool - INFO - Loading ARXML file for editing: /home/adarsh/autosar_arxml-parser_editor/tests/../examples/sample.arxml
+2025-04-26 14:09:44,718 - arxml_tool - INFO - Loading ARXML file: /home/adarsh/autosar_arxml-parser_editor/tests/../examples/sample.arxml
+2025-04-26 14:09:44,718 - arxml_tool - INFO - Loading ARXML file: /home/adarsh/autosar_arxml-parser_editor/tests/../examples/sample.arxml
+2025-04-26 14:09:44,718 - arxml_tool - INFO - Loading ARXML file: /home/adarsh/autosar_arxml-parser_editor/tests/../examples/sample.arxml
+2025-04-26 14:09:44,718 - arxml_tool - INFO - Loading ARXML file: /home/adarsh/autosar_arxml-parser_editor/tests/../examples/sample.arxml
+2025-04-26 14:09:44,718 - arxml_tool - INFO - Loading ARXML file: /home/adarsh/autosar_arxml-parser_editor/tests/../examples/sample.arxml
+2025-04-26 14:09:44,718 - arxml_tool - INFO - Loading ARXML file: /home/adarsh/autosar_arxml-parser_editor/tests/../examples/sample.arxml
+2025-04-26 14:09:44,718 - arxml_tool - INFO - Loading ARXML file: /home/adarsh/autosar_arxml-parser_editor/tests/../examples/sample.arxml
+2025-04-26 14:09:44,718 - arxml_tool - INFO - Loading ARXML file: /home/adarsh/autosar_arxml-parser_editor/tests/../examples/sample.arxml
+2025-04-26 14:09:44,924 - arxml_tool - WARNING - Failed to download schema: HTTP 404
+2025-04-26 14:09:44,924 - arxml_tool - WARNING - Failed to download schema: HTTP 404
+2025-04-26 14:09:44,924 - arxml_tool - WARNING - Failed to download schema: HTTP 404
+2025-04-26 14:09:44,924 - arxml_tool - WARNING - Failed to download schema: HTTP 404
+2025-04-26 14:09:44,924 - arxml_tool - WARNING - Failed to download schema: HTTP 404
+2025-04-26 14:09:44,924 - arxml_tool - WARNING - Failed to download schema: HTTP 404
+2025-04-26 14:09:44,924 - arxml_tool - WARNING - Failed to download schema: HTTP 404
+2025-04-26 14:09:44,924 - arxml_tool - WARNING - Failed to download schema: HTTP 404
+2025-04-26 14:09:44,925 - arxml_tool - WARNING - Could not load schema, skipping validation
+2025-04-26 14:09:44,925 - arxml_tool - WARNING - Could not load schema, skipping validation
+2025-04-26 14:09:44,925 - arxml_tool - WARNING - Could not load schema, skipping validation
+2025-04-26 14:09:44,925 - arxml_tool - WARNING - Could not load schema, skipping validation
+2025-04-26 14:09:44,925 - arxml_tool - WARNING - Could not load schema, skipping validation
+2025-04-26 14:09:44,925 - arxml_tool - WARNING - Could not load schema, skipping validation
+2025-04-26 14:09:44,925 - arxml_tool - WARNING - Could not load schema, skipping validation
+2025-04-26 14:09:44,925 - arxml_tool - WARNING - Could not load schema, skipping validation
+2025-04-26 14:09:44,926 - arxml_tool - INFO - Successfully loaded ARXML file
+2025-04-26 14:09:44,926 - arxml_tool - INFO - Successfully loaded ARXML file
+2025-04-26 14:09:44,926 - arxml_tool - INFO - Successfully loaded ARXML file
+2025-04-26 14:09:44,926 - arxml_tool - INFO - Successfully loaded ARXML file
+2025-04-26 14:09:44,926 - arxml_tool - INFO - Successfully loaded ARXML file
+2025-04-26 14:09:44,926 - arxml_tool - INFO - Successfully loaded ARXML file
+2025-04-26 14:09:44,926 - arxml_tool - INFO - Successfully loaded ARXML file
+2025-04-26 14:09:44,926 - arxml_tool - INFO - Successfully loaded ARXML file
+2025-04-26 14:09:44,926 - arxml_tool - INFO - Added software component: TestReloadComponent
+2025-04-26 14:09:44,926 - arxml_tool - INFO - Added software component: TestReloadComponent
+2025-04-26 14:09:44,926 - arxml_tool - INFO - Added software component: TestReloadComponent
+2025-04-26 14:09:44,926 - arxml_tool - INFO - Added software component: TestReloadComponent
+2025-04-26 14:09:44,926 - arxml_tool - INFO - Added software component: TestReloadComponent
+2025-04-26 14:09:44,926 - arxml_tool - INFO - Added software component: TestReloadComponent
+2025-04-26 14:09:44,926 - arxml_tool - INFO - Added software component: TestReloadComponent
+2025-04-26 14:09:44,926 - arxml_tool - INFO - Added software component: TestReloadComponent
+2025-04-26 14:09:44,927 - arxml_tool - INFO - Created backup: /tmp/.arxml_backups/tmpesj9kvuw.arxml.20250426_140944.bak
+2025-04-26 14:09:44,927 - arxml_tool - INFO - Created backup: /tmp/.arxml_backups/tmpesj9kvuw.arxml.20250426_140944.bak
+2025-04-26 14:09:44,927 - arxml_tool - INFO - Created backup: /tmp/.arxml_backups/tmpesj9kvuw.arxml.20250426_140944.bak
+2025-04-26 14:09:44,927 - arxml_tool - INFO - Created backup: /tmp/.arxml_backups/tmpesj9kvuw.arxml.20250426_140944.bak
+2025-04-26 14:09:44,927 - arxml_tool - INFO - Created backup: /tmp/.arxml_backups/tmpesj9kvuw.arxml.20250426_140944.bak
+2025-04-26 14:09:44,927 - arxml_tool - INFO - Created backup: /tmp/.arxml_backups/tmpesj9kvuw.arxml.20250426_140944.bak
+2025-04-26 14:09:44,927 - arxml_tool - INFO - Created backup: /tmp/.arxml_backups/tmpesj9kvuw.arxml.20250426_140944.bak
+2025-04-26 14:09:44,927 - arxml_tool - INFO - Created backup: /tmp/.arxml_backups/tmpesj9kvuw.arxml.20250426_140944.bak
+2025-04-26 14:09:44,928 - arxml_tool - ERROR - Error saving ARXML file: Invalid reference: /ComponentTypes/EngineManagement
+2025-04-26 14:09:44,928 - arxml_tool - ERROR - Error saving ARXML file: Invalid reference: /ComponentTypes/EngineManagement
+2025-04-26 14:09:44,928 - arxml_tool - ERROR - Error saving ARXML file: Invalid reference: /ComponentTypes/EngineManagement
+2025-04-26 14:09:44,928 - arxml_tool - ERROR - Error saving ARXML file: Invalid reference: /ComponentTypes/EngineManagement
+2025-04-26 14:09:44,928 - arxml_tool - ERROR - Error saving ARXML file: Invalid reference: /ComponentTypes/EngineManagement
+2025-04-26 14:09:44,928 - arxml_tool - ERROR - Error saving ARXML file: Invalid reference: /ComponentTypes/EngineManagement
+2025-04-26 14:09:44,928 - arxml_tool - ERROR - Error saving ARXML file: Invalid reference: /ComponentTypes/EngineManagement
+2025-04-26 14:09:44,928 - arxml_tool - ERROR - Error saving ARXML file: Invalid reference: /ComponentTypes/EngineManagement
+2025-04-26 14:09:44,929 - arxml_tool - INFO - Loading ARXML file for editing: /tmp/tmpesj9kvuw.arxml
+2025-04-26 14:09:44,929 - arxml_tool - INFO - Loading ARXML file for editing: /tmp/tmpesj9kvuw.arxml
+2025-04-26 14:09:44,929 - arxml_tool - INFO - Loading ARXML file for editing: /tmp/tmpesj9kvuw.arxml
+2025-04-26 14:09:44,929 - arxml_tool - INFO - Loading ARXML file for editing: /tmp/tmpesj9kvuw.arxml
+2025-04-26 14:09:44,929 - arxml_tool - INFO - Loading ARXML file for editing: /tmp/tmpesj9kvuw.arxml
+2025-04-26 14:09:44,929 - arxml_tool - INFO - Loading ARXML file for editing: /tmp/tmpesj9kvuw.arxml
+2025-04-26 14:09:44,929 - arxml_tool - INFO - Loading ARXML file for editing: /tmp/tmpesj9kvuw.arxml
+2025-04-26 14:09:44,929 - arxml_tool - INFO - Loading ARXML file for editing: /tmp/tmpesj9kvuw.arxml
+2025-04-26 14:09:44,929 - arxml_tool - INFO - Loading ARXML file for editing: /tmp/tmpesj9kvuw.arxml
+2025-04-26 14:09:44,929 - arxml_tool - INFO - Loading ARXML file for editing: /tmp/tmpesj9kvuw.arxml
+2025-04-26 14:09:44,930 - arxml_tool - INFO - Loading ARXML file: /tmp/tmpesj9kvuw.arxml
+2025-04-26 14:09:44,930 - arxml_tool - INFO - Loading ARXML file: /tmp/tmpesj9kvuw.arxml
+2025-04-26 14:09:44,930 - arxml_tool - INFO - Loading ARXML file: /tmp/tmpesj9kvuw.arxml
+2025-04-26 14:09:44,930 - arxml_tool - INFO - Loading ARXML file: /tmp/tmpesj9kvuw.arxml
+2025-04-26 14:09:44,930 - arxml_tool - INFO - Loading ARXML file: /tmp/tmpesj9kvuw.arxml
+2025-04-26 14:09:44,930 - arxml_tool - INFO - Loading ARXML file: /tmp/tmpesj9kvuw.arxml
+2025-04-26 14:09:44,930 - arxml_tool - INFO - Loading ARXML file: /tmp/tmpesj9kvuw.arxml
+2025-04-26 14:09:44,930 - arxml_tool - INFO - Loading ARXML file: /tmp/tmpesj9kvuw.arxml
+2025-04-26 14:09:44,930 - arxml_tool - INFO - Loading ARXML file: /tmp/tmpesj9kvuw.arxml
+2025-04-26 14:09:44,930 - arxml_tool - INFO - Loading ARXML file: /tmp/tmpesj9kvuw.arxml
+2025-04-26 14:09:44,931 - arxml_tool - ERROR - Error parsing ARXML file: no element found: line 1, column 0
+2025-04-26 14:09:44,931 - arxml_tool - ERROR - Error parsing ARXML file: no element found: line 1, column 0
+2025-04-26 14:09:44,931 - arxml_tool - ERROR - Error parsing ARXML file: no element found: line 1, column 0
+2025-04-26 14:09:44,931 - arxml_tool - ERROR - Error parsing ARXML file: no element found: line 1, column 0
+2025-04-26 14:09:44,931 - arxml_tool - ERROR - Error parsing ARXML file: no element found: line 1, column 0
+2025-04-26 14:09:44,931 - arxml_tool - ERROR - Error parsing ARXML file: no element found: line 1, column 0
+2025-04-26 14:09:44,931 - arxml_tool - ERROR - Error parsing ARXML file: no element found: line 1, column 0
+2025-04-26 14:09:44,931 - arxml_tool - ERROR - Error parsing ARXML file: no element found: line 1, column 0
+2025-04-26 14:09:44,931 - arxml_tool - ERROR - Error parsing ARXML file: no element found: line 1, column 0
+2025-04-26 14:09:44,931 - arxml_tool - ERROR - Error parsing ARXML file: no element found: line 1, column 0
+2025-04-26 14:09:44,932 - arxml_tool - INFO - Loading ARXML file for editing: /home/adarsh/autosar_arxml-parser_editor/tests/../examples/sample.arxml
+2025-04-26 14:09:44,932 - arxml_tool - INFO - Loading ARXML file for editing: /home/adarsh/autosar_arxml-parser_editor/tests/../examples/sample.arxml
+2025-04-26 14:09:44,932 - arxml_tool - INFO - Loading ARXML file for editing: /home/adarsh/autosar_arxml-parser_editor/tests/../examples/sample.arxml
+2025-04-26 14:09:44,932 - arxml_tool - INFO - Loading ARXML file for editing: /home/adarsh/autosar_arxml-parser_editor/tests/../examples/sample.arxml
+2025-04-26 14:09:44,932 - arxml_tool - INFO - Loading ARXML file for editing: /home/adarsh/autosar_arxml-parser_editor/tests/../examples/sample.arxml
+2025-04-26 14:09:44,932 - arxml_tool - INFO - Loading ARXML file for editing: /home/adarsh/autosar_arxml-parser_editor/tests/../examples/sample.arxml
+2025-04-26 14:09:44,932 - arxml_tool - INFO - Loading ARXML file for editing: /home/adarsh/autosar_arxml-parser_editor/tests/../examples/sample.arxml
+2025-04-26 14:09:44,932 - arxml_tool - INFO - Loading ARXML file for editing: /home/adarsh/autosar_arxml-parser_editor/tests/../examples/sample.arxml
+2025-04-26 14:09:44,932 - arxml_tool - INFO - Loading ARXML file for editing: /home/adarsh/autosar_arxml-parser_editor/tests/../examples/sample.arxml
+2025-04-26 14:09:44,932 - arxml_tool - INFO - Loading ARXML file for editing: /home/adarsh/autosar_arxml-parser_editor/tests/../examples/sample.arxml
+2025-04-26 14:09:44,932 - arxml_tool - INFO - Loading ARXML file for editing: /home/adarsh/autosar_arxml-parser_editor/tests/../examples/sample.arxml
+2025-04-26 14:09:44,932 - arxml_tool - INFO - Loading ARXML file for editing: /home/adarsh/autosar_arxml-parser_editor/tests/../examples/sample.arxml
+2025-04-26 14:09:44,933 - arxml_tool - INFO - Loading ARXML file: /home/adarsh/autosar_arxml-parser_editor/tests/../examples/sample.arxml
+2025-04-26 14:09:44,933 - arxml_tool - INFO - Loading ARXML file: /home/adarsh/autosar_arxml-parser_editor/tests/../examples/sample.arxml
+2025-04-26 14:09:44,933 - arxml_tool - INFO - Loading ARXML file: /home/adarsh/autosar_arxml-parser_editor/tests/../examples/sample.arxml
+2025-04-26 14:09:44,933 - arxml_tool - INFO - Loading ARXML file: /home/adarsh/autosar_arxml-parser_editor/tests/../examples/sample.arxml
+2025-04-26 14:09:44,933 - arxml_tool - INFO - Loading ARXML file: /home/adarsh/autosar_arxml-parser_editor/tests/../examples/sample.arxml
+2025-04-26 14:09:44,933 - arxml_tool - INFO - Loading ARXML file: /home/adarsh/autosar_arxml-parser_editor/tests/../examples/sample.arxml
+2025-04-26 14:09:44,933 - arxml_tool - INFO - Loading ARXML file: /home/adarsh/autosar_arxml-parser_editor/tests/../examples/sample.arxml
+2025-04-26 14:09:44,933 - arxml_tool - INFO - Loading ARXML file: /home/adarsh/autosar_arxml-parser_editor/tests/../examples/sample.arxml
+2025-04-26 14:09:44,933 - arxml_tool - INFO - Loading ARXML file: /home/adarsh/autosar_arxml-parser_editor/tests/../examples/sample.arxml
+2025-04-26 14:09:44,933 - arxml_tool - INFO - Loading ARXML file: /home/adarsh/autosar_arxml-parser_editor/tests/../examples/sample.arxml
+2025-04-26 14:09:44,933 - arxml_tool - INFO - Loading ARXML file: /home/adarsh/autosar_arxml-parser_editor/tests/../examples/sample.arxml
+2025-04-26 14:09:44,933 - arxml_tool - INFO - Loading ARXML file: /home/adarsh/autosar_arxml-parser_editor/tests/../examples/sample.arxml
+2025-04-26 14:09:45,132 - arxml_tool - WARNING - Failed to download schema: HTTP 404
+2025-04-26 14:09:45,132 - arxml_tool - WARNING - Failed to download schema: HTTP 404
+2025-04-26 14:09:45,132 - arxml_tool - WARNING - Failed to download schema: HTTP 404
+2025-04-26 14:09:45,132 - arxml_tool - WARNING - Failed to download schema: HTTP 404
+2025-04-26 14:09:45,132 - arxml_tool - WARNING - Failed to download schema: HTTP 404
+2025-04-26 14:09:45,132 - arxml_tool - WARNING - Failed to download schema: HTTP 404
+2025-04-26 14:09:45,132 - arxml_tool - WARNING - Failed to download schema: HTTP 404
+2025-04-26 14:09:45,132 - arxml_tool - WARNING - Failed to download schema: HTTP 404
+2025-04-26 14:09:45,132 - arxml_tool - WARNING - Failed to download schema: HTTP 404
+2025-04-26 14:09:45,132 - arxml_tool - WARNING - Failed to download schema: HTTP 404
+2025-04-26 14:09:45,132 - arxml_tool - WARNING - Failed to download schema: HTTP 404
+2025-04-26 14:09:45,132 - arxml_tool - WARNING - Failed to download schema: HTTP 404
+2025-04-26 14:09:45,133 - arxml_tool - WARNING - Could not load schema, skipping validation
+2025-04-26 14:09:45,133 - arxml_tool - WARNING - Could not load schema, skipping validation
+2025-04-26 14:09:45,133 - arxml_tool - WARNING - Could not load schema, skipping validation
+2025-04-26 14:09:45,133 - arxml_tool - WARNING - Could not load schema, skipping validation
+2025-04-26 14:09:45,133 - arxml_tool - WARNING - Could not load schema, skipping validation
+2025-04-26 14:09:45,133 - arxml_tool - WARNING - Could not load schema, skipping validation
+2025-04-26 14:09:45,133 - arxml_tool - WARNING - Could not load schema, skipping validation
+2025-04-26 14:09:45,133 - arxml_tool - WARNING - Could not load schema, skipping validation
+2025-04-26 14:09:45,133 - arxml_tool - WARNING - Could not load schema, skipping validation
+2025-04-26 14:09:45,133 - arxml_tool - WARNING - Could not load schema, skipping validation
+2025-04-26 14:09:45,133 - arxml_tool - WARNING - Could not load schema, skipping validation
+2025-04-26 14:09:45,133 - arxml_tool - WARNING - Could not load schema, skipping validation
+2025-04-26 14:09:45,133 - arxml_tool - INFO - Successfully loaded ARXML file
+2025-04-26 14:09:45,133 - arxml_tool - INFO - Successfully loaded ARXML file
+2025-04-26 14:09:45,133 - arxml_tool - INFO - Successfully loaded ARXML file
+2025-04-26 14:09:45,133 - arxml_tool - INFO - Successfully loaded ARXML file
+2025-04-26 14:09:45,133 - arxml_tool - INFO - Successfully loaded ARXML file
+2025-04-26 14:09:45,133 - arxml_tool - INFO - Successfully loaded ARXML file
+2025-04-26 14:09:45,133 - arxml_tool - INFO - Successfully loaded ARXML file
+2025-04-26 14:09:45,133 - arxml_tool - INFO - Successfully loaded ARXML file
+2025-04-26 14:09:45,133 - arxml_tool - INFO - Successfully loaded ARXML file
+2025-04-26 14:09:45,133 - arxml_tool - INFO - Successfully loaded ARXML file
+2025-04-26 14:09:45,133 - arxml_tool - INFO - Successfully loaded ARXML file
+2025-04-26 14:09:45,133 - arxml_tool - INFO - Successfully loaded ARXML file
+2025-04-26 14:09:45,134 - arxml_tool - INFO - Created backup: /tmp/.arxml_backups/tmpzc0c70hy.arxml.20250426_140945.bak
+2025-04-26 14:09:45,134 - arxml_tool - INFO - Created backup: /tmp/.arxml_backups/tmpzc0c70hy.arxml.20250426_140945.bak
+2025-04-26 14:09:45,134 - arxml_tool - INFO - Created backup: /tmp/.arxml_backups/tmpzc0c70hy.arxml.20250426_140945.bak
+2025-04-26 14:09:45,134 - arxml_tool - INFO - Created backup: /tmp/.arxml_backups/tmpzc0c70hy.arxml.20250426_140945.bak
+2025-04-26 14:09:45,134 - arxml_tool - INFO - Created backup: /tmp/.arxml_backups/tmpzc0c70hy.arxml.20250426_140945.bak
+2025-04-26 14:09:45,134 - arxml_tool - INFO - Created backup: /tmp/.arxml_backups/tmpzc0c70hy.arxml.20250426_140945.bak
+2025-04-26 14:09:45,134 - arxml_tool - INFO - Created backup: /tmp/.arxml_backups/tmpzc0c70hy.arxml.20250426_140945.bak
+2025-04-26 14:09:45,134 - arxml_tool - INFO - Created backup: /tmp/.arxml_backups/tmpzc0c70hy.arxml.20250426_140945.bak
+2025-04-26 14:09:45,134 - arxml_tool - INFO - Created backup: /tmp/.arxml_backups/tmpzc0c70hy.arxml.20250426_140945.bak
+2025-04-26 14:09:45,134 - arxml_tool - INFO - Created backup: /tmp/.arxml_backups/tmpzc0c70hy.arxml.20250426_140945.bak
+2025-04-26 14:09:45,134 - arxml_tool - INFO - Created backup: /tmp/.arxml_backups/tmpzc0c70hy.arxml.20250426_140945.bak
+2025-04-26 14:09:45,134 - arxml_tool - INFO - Created backup: /tmp/.arxml_backups/tmpzc0c70hy.arxml.20250426_140945.bak
+2025-04-26 14:09:45,135 - arxml_tool - ERROR - Error saving ARXML file: Invalid reference: /ComponentTypes/EngineManagement
+2025-04-26 14:09:45,135 - arxml_tool - ERROR - Error saving ARXML file: Invalid reference: /ComponentTypes/EngineManagement
+2025-04-26 14:09:45,135 - arxml_tool - ERROR - Error saving ARXML file: Invalid reference: /ComponentTypes/EngineManagement
+2025-04-26 14:09:45,135 - arxml_tool - ERROR - Error saving ARXML file: Invalid reference: /ComponentTypes/EngineManagement
+2025-04-26 14:09:45,135 - arxml_tool - ERROR - Error saving ARXML file: Invalid reference: /ComponentTypes/EngineManagement
+2025-04-26 14:09:45,135 - arxml_tool - ERROR - Error saving ARXML file: Invalid reference: /ComponentTypes/EngineManagement
+2025-04-26 14:09:45,135 - arxml_tool - ERROR - Error saving ARXML file: Invalid reference: /ComponentTypes/EngineManagement
+2025-04-26 14:09:45,135 - arxml_tool - ERROR - Error saving ARXML file: Invalid reference: /ComponentTypes/EngineManagement
+2025-04-26 14:09:45,135 - arxml_tool - ERROR - Error saving ARXML file: Invalid reference: /ComponentTypes/EngineManagement
+2025-04-26 14:09:45,135 - arxml_tool - ERROR - Error saving ARXML file: Invalid reference: /ComponentTypes/EngineManagement
+2025-04-26 14:09:45,135 - arxml_tool - ERROR - Error saving ARXML file: Invalid reference: /ComponentTypes/EngineManagement
+2025-04-26 14:09:45,135 - arxml_tool - ERROR - Error saving ARXML file: Invalid reference: /ComponentTypes/EngineManagement
+2025-04-26 14:09:45,136 - arxml_tool - INFO - Loading ARXML file: /home/adarsh/autosar_arxml-parser_editor/tests/../examples/sample.arxml
+2025-04-26 14:09:45,136 - arxml_tool - INFO - Loading ARXML file: /home/adarsh/autosar_arxml-parser_editor/tests/../examples/sample.arxml
+2025-04-26 14:09:45,136 - arxml_tool - INFO - Loading ARXML file: /home/adarsh/autosar_arxml-parser_editor/tests/../examples/sample.arxml
+2025-04-26 14:09:45,136 - arxml_tool - INFO - Loading ARXML file: /home/adarsh/autosar_arxml-parser_editor/tests/../examples/sample.arxml
+2025-04-26 14:09:45,136 - arxml_tool - INFO - Loading ARXML file: /home/adarsh/autosar_arxml-parser_editor/tests/../examples/sample.arxml
+2025-04-26 14:09:45,136 - arxml_tool - INFO - Loading ARXML file: /home/adarsh/autosar_arxml-parser_editor/tests/../examples/sample.arxml
+2025-04-26 14:09:45,136 - arxml_tool - INFO - Loading ARXML file: /home/adarsh/autosar_arxml-parser_editor/tests/../examples/sample.arxml
+2025-04-26 14:09:45,136 - arxml_tool - INFO - Loading ARXML file: /home/adarsh/autosar_arxml-parser_editor/tests/../examples/sample.arxml
+2025-04-26 14:09:45,136 - arxml_tool - INFO - Loading ARXML file: /home/adarsh/autosar_arxml-parser_editor/tests/../examples/sample.arxml
+2025-04-26 14:09:45,136 - arxml_tool - INFO - Loading ARXML file: /home/adarsh/autosar_arxml-parser_editor/tests/../examples/sample.arxml
+2025-04-26 14:09:45,136 - arxml_tool - INFO - Loading ARXML file: /home/adarsh/autosar_arxml-parser_editor/tests/../examples/sample.arxml
+2025-04-26 14:09:45,136 - arxml_tool - INFO - Loading ARXML file: /home/adarsh/autosar_arxml-parser_editor/tests/../examples/sample.arxml
+2025-04-26 14:09:45,340 - arxml_tool - WARNING - Failed to download schema: HTTP 404
+2025-04-26 14:09:45,340 - arxml_tool - WARNING - Failed to download schema: HTTP 404
+2025-04-26 14:09:45,340 - arxml_tool - WARNING - Failed to download schema: HTTP 404
+2025-04-26 14:09:45,340 - arxml_tool - WARNING - Failed to download schema: HTTP 404
+2025-04-26 14:09:45,340 - arxml_tool - WARNING - Failed to download schema: HTTP 404
+2025-04-26 14:09:45,340 - arxml_tool - WARNING - Failed to download schema: HTTP 404
+2025-04-26 14:09:45,340 - arxml_tool - WARNING - Failed to download schema: HTTP 404
+2025-04-26 14:09:45,340 - arxml_tool - WARNING - Failed to download schema: HTTP 404
+2025-04-26 14:09:45,340 - arxml_tool - WARNING - Failed to download schema: HTTP 404
+2025-04-26 14:09:45,340 - arxml_tool - WARNING - Failed to download schema: HTTP 404
+2025-04-26 14:09:45,340 - arxml_tool - WARNING - Failed to download schema: HTTP 404
+2025-04-26 14:09:45,340 - arxml_tool - WARNING - Failed to download schema: HTTP 404
+2025-04-26 14:09:45,341 - arxml_tool - WARNING - Could not load schema, skipping validation
+2025-04-26 14:09:45,341 - arxml_tool - WARNING - Could not load schema, skipping validation
+2025-04-26 14:09:45,341 - arxml_tool - WARNING - Could not load schema, skipping validation
+2025-04-26 14:09:45,341 - arxml_tool - WARNING - Could not load schema, skipping validation
+2025-04-26 14:09:45,341 - arxml_tool - WARNING - Could not load schema, skipping validation
+2025-04-26 14:09:45,341 - arxml_tool - WARNING - Could not load schema, skipping validation
+2025-04-26 14:09:45,341 - arxml_tool - WARNING - Could not load schema, skipping validation
+2025-04-26 14:09:45,341 - arxml_tool - WARNING - Could not load schema, skipping validation
+2025-04-26 14:09:45,341 - arxml_tool - WARNING - Could not load schema, skipping validation
+2025-04-26 14:09:45,341 - arxml_tool - WARNING - Could not load schema, skipping validation
+2025-04-26 14:09:45,341 - arxml_tool - WARNING - Could not load schema, skipping validation
+2025-04-26 14:09:45,341 - arxml_tool - WARNING - Could not load schema, skipping validation
+2025-04-26 14:09:45,341 - arxml_tool - INFO - Successfully loaded ARXML file
+2025-04-26 14:09:45,341 - arxml_tool - INFO - Successfully loaded ARXML file
+2025-04-26 14:09:45,341 - arxml_tool - INFO - Successfully loaded ARXML file
+2025-04-26 14:09:45,341 - arxml_tool - INFO - Successfully loaded ARXML file
+2025-04-26 14:09:45,341 - arxml_tool - INFO - Successfully loaded ARXML file
+2025-04-26 14:09:45,341 - arxml_tool - INFO - Successfully loaded ARXML file
+2025-04-26 14:09:45,341 - arxml_tool - INFO - Successfully loaded ARXML file
+2025-04-26 14:09:45,341 - arxml_tool - INFO - Successfully loaded ARXML file
+2025-04-26 14:09:45,341 - arxml_tool - INFO - Successfully loaded ARXML file
+2025-04-26 14:09:45,341 - arxml_tool - INFO - Successfully loaded ARXML file
+2025-04-26 14:09:45,341 - arxml_tool - INFO - Successfully loaded ARXML file
+2025-04-26 14:09:45,341 - arxml_tool - INFO - Successfully loaded ARXML file
+2025-04-26 14:09:45,342 - arxml_tool - INFO - Loading ARXML file: /home/adarsh/autosar_arxml-parser_editor/tests/../examples/sample.arxml
+2025-04-26 14:09:45,342 - arxml_tool - INFO - Loading ARXML file: /home/adarsh/autosar_arxml-parser_editor/tests/../examples/sample.arxml
+2025-04-26 14:09:45,342 - arxml_tool - INFO - Loading ARXML file: /home/adarsh/autosar_arxml-parser_editor/tests/../examples/sample.arxml
+2025-04-26 14:09:45,342 - arxml_tool - INFO - Loading ARXML file: /home/adarsh/autosar_arxml-parser_editor/tests/../examples/sample.arxml
+2025-04-26 14:09:45,342 - arxml_tool - INFO - Loading ARXML file: /home/adarsh/autosar_arxml-parser_editor/tests/../examples/sample.arxml
+2025-04-26 14:09:45,342 - arxml_tool - INFO - Loading ARXML file: /home/adarsh/autosar_arxml-parser_editor/tests/../examples/sample.arxml
+2025-04-26 14:09:45,342 - arxml_tool - INFO - Loading ARXML file: /home/adarsh/autosar_arxml-parser_editor/tests/../examples/sample.arxml
+2025-04-26 14:09:45,342 - arxml_tool - INFO - Loading ARXML file: /home/adarsh/autosar_arxml-parser_editor/tests/../examples/sample.arxml
+2025-04-26 14:09:45,342 - arxml_tool - INFO - Loading ARXML file: /home/adarsh/autosar_arxml-parser_editor/tests/../examples/sample.arxml
+2025-04-26 14:09:45,342 - arxml_tool - INFO - Loading ARXML file: /home/adarsh/autosar_arxml-parser_editor/tests/../examples/sample.arxml
+2025-04-26 14:09:45,342 - arxml_tool - INFO - Loading ARXML file: /home/adarsh/autosar_arxml-parser_editor/tests/../examples/sample.arxml
+2025-04-26 14:09:45,342 - arxml_tool - INFO - Loading ARXML file: /home/adarsh/autosar_arxml-parser_editor/tests/../examples/sample.arxml
+2025-04-26 14:09:45,528 - arxml_tool - WARNING - Failed to download schema: HTTP 404
+2025-04-26 14:09:45,528 - arxml_tool - WARNING - Failed to download schema: HTTP 404
+2025-04-26 14:09:45,528 - arxml_tool - WARNING - Failed to download schema: HTTP 404
+2025-04-26 14:09:45,528 - arxml_tool - WARNING - Failed to download schema: HTTP 404
+2025-04-26 14:09:45,528 - arxml_tool - WARNING - Failed to download schema: HTTP 404
+2025-04-26 14:09:45,528 - arxml_tool - WARNING - Failed to download schema: HTTP 404
+2025-04-26 14:09:45,528 - arxml_tool - WARNING - Failed to download schema: HTTP 404
+2025-04-26 14:09:45,528 - arxml_tool - WARNING - Failed to download schema: HTTP 404
+2025-04-26 14:09:45,528 - arxml_tool - WARNING - Failed to download schema: HTTP 404
+2025-04-26 14:09:45,528 - arxml_tool - WARNING - Failed to download schema: HTTP 404
+2025-04-26 14:09:45,528 - arxml_tool - WARNING - Failed to download schema: HTTP 404
+2025-04-26 14:09:45,528 - arxml_tool - WARNING - Failed to download schema: HTTP 404
+2025-04-26 14:09:45,529 - arxml_tool - WARNING - Could not load schema, skipping validation
+2025-04-26 14:09:45,529 - arxml_tool - WARNING - Could not load schema, skipping validation
+2025-04-26 14:09:45,529 - arxml_tool - WARNING - Could not load schema, skipping validation
+2025-04-26 14:09:45,529 - arxml_tool - WARNING - Could not load schema, skipping validation
+2025-04-26 14:09:45,529 - arxml_tool - WARNING - Could not load schema, skipping validation
+2025-04-26 14:09:45,529 - arxml_tool - WARNING - Could not load schema, skipping validation
+2025-04-26 14:09:45,529 - arxml_tool - WARNING - Could not load schema, skipping validation
+2025-04-26 14:09:45,529 - arxml_tool - WARNING - Could not load schema, skipping validation
+2025-04-26 14:09:45,529 - arxml_tool - WARNING - Could not load schema, skipping validation
+2025-04-26 14:09:45,529 - arxml_tool - WARNING - Could not load schema, skipping validation
+2025-04-26 14:09:45,529 - arxml_tool - WARNING - Could not load schema, skipping validation
+2025-04-26 14:09:45,529 - arxml_tool - WARNING - Could not load schema, skipping validation
+2025-04-26 14:09:45,530 - arxml_tool - INFO - Successfully loaded ARXML file
+2025-04-26 14:09:45,530 - arxml_tool - INFO - Successfully loaded ARXML file
+2025-04-26 14:09:45,530 - arxml_tool - INFO - Successfully loaded ARXML file
+2025-04-26 14:09:45,530 - arxml_tool - INFO - Successfully loaded ARXML file
+2025-04-26 14:09:45,530 - arxml_tool - INFO - Successfully loaded ARXML file
+2025-04-26 14:09:45,530 - arxml_tool - INFO - Successfully loaded ARXML file
+2025-04-26 14:09:45,530 - arxml_tool - INFO - Successfully loaded ARXML file
+2025-04-26 14:09:45,530 - arxml_tool - INFO - Successfully loaded ARXML file
+2025-04-26 14:09:45,530 - arxml_tool - INFO - Successfully loaded ARXML file
+2025-04-26 14:09:45,530 - arxml_tool - INFO - Successfully loaded ARXML file
+2025-04-26 14:09:45,530 - arxml_tool - INFO - Successfully loaded ARXML file
+2025-04-26 14:09:45,530 - arxml_tool - INFO - Successfully loaded ARXML file
+2025-04-26 14:09:45,531 - arxml_tool - ERROR - ARXML file not found: non_existent_file.arxml
+2025-04-26 14:09:45,531 - arxml_tool - ERROR - ARXML file not found: non_existent_file.arxml
+2025-04-26 14:09:45,531 - arxml_tool - ERROR - ARXML file not found: non_existent_file.arxml
+2025-04-26 14:09:45,531 - arxml_tool - ERROR - ARXML file not found: non_existent_file.arxml
+2025-04-26 14:09:45,531 - arxml_tool - ERROR - ARXML file not found: non_existent_file.arxml
+2025-04-26 14:09:45,531 - arxml_tool - ERROR - ARXML file not found: non_existent_file.arxml
+2025-04-26 14:09:45,531 - arxml_tool - ERROR - ARXML file not found: non_existent_file.arxml
+2025-04-26 14:09:45,531 - arxml_tool - ERROR - ARXML file not found: non_existent_file.arxml
+2025-04-26 14:09:45,531 - arxml_tool - ERROR - ARXML file not found: non_existent_file.arxml
+2025-04-26 14:09:45,531 - arxml_tool - ERROR - ARXML file not found: non_existent_file.arxml
+2025-04-26 14:09:45,531 - arxml_tool - ERROR - ARXML file not found: non_existent_file.arxml
+2025-04-26 14:09:45,531 - arxml_tool - ERROR - ARXML file not found: non_existent_file.arxml
+2025-04-26 14:09:45,532 - arxml_tool - INFO - Loading ARXML file: /home/adarsh/autosar_arxml-parser_editor/tests/../examples/sample.arxml
+2025-04-26 14:09:45,532 - arxml_tool - INFO - Loading ARXML file: /home/adarsh/autosar_arxml-parser_editor/tests/../examples/sample.arxml
+2025-04-26 14:09:45,532 - arxml_tool - INFO - Loading ARXML file: /home/adarsh/autosar_arxml-parser_editor/tests/../examples/sample.arxml
+2025-04-26 14:09:45,532 - arxml_tool - INFO - Loading ARXML file: /home/adarsh/autosar_arxml-parser_editor/tests/../examples/sample.arxml
+2025-04-26 14:09:45,532 - arxml_tool - INFO - Loading ARXML file: /home/adarsh/autosar_arxml-parser_editor/tests/../examples/sample.arxml
+2025-04-26 14:09:45,532 - arxml_tool - INFO - Loading ARXML file: /home/adarsh/autosar_arxml-parser_editor/tests/../examples/sample.arxml
+2025-04-26 14:09:45,532 - arxml_tool - INFO - Loading ARXML file: /home/adarsh/autosar_arxml-parser_editor/tests/../examples/sample.arxml
+2025-04-26 14:09:45,532 - arxml_tool - INFO - Loading ARXML file: /home/adarsh/autosar_arxml-parser_editor/tests/../examples/sample.arxml
+2025-04-26 14:09:45,532 - arxml_tool - INFO - Loading ARXML file: /home/adarsh/autosar_arxml-parser_editor/tests/../examples/sample.arxml
+2025-04-26 14:09:45,532 - arxml_tool - INFO - Loading ARXML file: /home/adarsh/autosar_arxml-parser_editor/tests/../examples/sample.arxml
+2025-04-26 14:09:45,532 - arxml_tool - INFO - Loading ARXML file: /home/adarsh/autosar_arxml-parser_editor/tests/../examples/sample.arxml
+2025-04-26 14:09:45,532 - arxml_tool - INFO - Loading ARXML file: /home/adarsh/autosar_arxml-parser_editor/tests/../examples/sample.arxml
+2025-04-26 14:09:45,728 - arxml_tool - WARNING - Failed to download schema: HTTP 404
+2025-04-26 14:09:45,728 - arxml_tool - WARNING - Failed to download schema: HTTP 404
+2025-04-26 14:09:45,728 - arxml_tool - WARNING - Failed to download schema: HTTP 404
+2025-04-26 14:09:45,728 - arxml_tool - WARNING - Failed to download schema: HTTP 404
+2025-04-26 14:09:45,728 - arxml_tool - WARNING - Failed to download schema: HTTP 404
+2025-04-26 14:09:45,728 - arxml_tool - WARNING - Failed to download schema: HTTP 404
+2025-04-26 14:09:45,728 - arxml_tool - WARNING - Failed to download schema: HTTP 404
+2025-04-26 14:09:45,728 - arxml_tool - WARNING - Failed to download schema: HTTP 404
+2025-04-26 14:09:45,728 - arxml_tool - WARNING - Failed to download schema: HTTP 404
+2025-04-26 14:09:45,728 - arxml_tool - WARNING - Failed to download schema: HTTP 404
+2025-04-26 14:09:45,728 - arxml_tool - WARNING - Failed to download schema: HTTP 404
+2025-04-26 14:09:45,728 - arxml_tool - WARNING - Failed to download schema: HTTP 404
+2025-04-26 14:09:45,730 - arxml_tool - WARNING - Could not load schema, skipping validation
+2025-04-26 14:09:45,730 - arxml_tool - WARNING - Could not load schema, skipping validation
+2025-04-26 14:09:45,730 - arxml_tool - WARNING - Could not load schema, skipping validation
+2025-04-26 14:09:45,730 - arxml_tool - WARNING - Could not load schema, skipping validation
+2025-04-26 14:09:45,730 - arxml_tool - WARNING - Could not load schema, skipping validation
+2025-04-26 14:09:45,730 - arxml_tool - WARNING - Could not load schema, skipping validation
+2025-04-26 14:09:45,730 - arxml_tool - WARNING - Could not load schema, skipping validation
+2025-04-26 14:09:45,730 - arxml_tool - WARNING - Could not load schema, skipping validation
+2025-04-26 14:09:45,730 - arxml_tool - WARNING - Could not load schema, skipping validation
+2025-04-26 14:09:45,730 - arxml_tool - WARNING - Could not load schema, skipping validation
+2025-04-26 14:09:45,730 - arxml_tool - WARNING - Could not load schema, skipping validation
+2025-04-26 14:09:45,730 - arxml_tool - WARNING - Could not load schema, skipping validation
+2025-04-26 14:09:45,731 - arxml_tool - INFO - Successfully loaded ARXML file
+2025-04-26 14:09:45,731 - arxml_tool - INFO - Successfully loaded ARXML file
+2025-04-26 14:09:45,731 - arxml_tool - INFO - Successfully loaded ARXML file
+2025-04-26 14:09:45,731 - arxml_tool - INFO - Successfully loaded ARXML file
+2025-04-26 14:09:45,731 - arxml_tool - INFO - Successfully loaded ARXML file
+2025-04-26 14:09:45,731 - arxml_tool - INFO - Successfully loaded ARXML file
+2025-04-26 14:09:45,731 - arxml_tool - INFO - Successfully loaded ARXML file
+2025-04-26 14:09:45,731 - arxml_tool - INFO - Successfully loaded ARXML file
+2025-04-26 14:09:45,731 - arxml_tool - INFO - Successfully loaded ARXML file
+2025-04-26 14:09:45,731 - arxml_tool - INFO - Successfully loaded ARXML file
+2025-04-26 14:09:45,731 - arxml_tool - INFO - Successfully loaded ARXML file
+2025-04-26 14:09:45,731 - arxml_tool - INFO - Successfully loaded ARXML file
+2025-04-26 14:09:45,733 - arxml_tool - INFO - Loading ARXML file: /tmp/tmpfhnoe9wh.arxml
+2025-04-26 14:09:45,733 - arxml_tool - INFO - Loading ARXML file: /tmp/tmpfhnoe9wh.arxml
+2025-04-26 14:09:45,733 - arxml_tool - INFO - Loading ARXML file: /tmp/tmpfhnoe9wh.arxml
+2025-04-26 14:09:45,733 - arxml_tool - INFO - Loading ARXML file: /tmp/tmpfhnoe9wh.arxml
+2025-04-26 14:09:45,733 - arxml_tool - INFO - Loading ARXML file: /tmp/tmpfhnoe9wh.arxml
+2025-04-26 14:09:45,733 - arxml_tool - INFO - Loading ARXML file: /tmp/tmpfhnoe9wh.arxml
+2025-04-26 14:09:45,733 - arxml_tool - INFO - Loading ARXML file: /tmp/tmpfhnoe9wh.arxml
+2025-04-26 14:09:45,733 - arxml_tool - INFO - Loading ARXML file: /tmp/tmpfhnoe9wh.arxml
+2025-04-26 14:09:45,733 - arxml_tool - INFO - Loading ARXML file: /tmp/tmpfhnoe9wh.arxml
+2025-04-26 14:09:45,733 - arxml_tool - INFO - Loading ARXML file: /tmp/tmpfhnoe9wh.arxml
+2025-04-26 14:09:45,733 - arxml_tool - INFO - Loading ARXML file: /tmp/tmpfhnoe9wh.arxml
+2025-04-26 14:09:45,733 - arxml_tool - INFO - Loading ARXML file: /tmp/tmpfhnoe9wh.arxml
+2025-04-26 14:09:45,734 - arxml_tool - ERROR - Error parsing ARXML file: 
+2025-04-26 14:09:45,734 - arxml_tool - ERROR - Error parsing ARXML file: 
+2025-04-26 14:09:45,734 - arxml_tool - ERROR - Error parsing ARXML file: 
+2025-04-26 14:09:45,734 - arxml_tool - ERROR - Error parsing ARXML file: 
+2025-04-26 14:09:45,734 - arxml_tool - ERROR - Error parsing ARXML file: 
+2025-04-26 14:09:45,734 - arxml_tool - ERROR - Error parsing ARXML file: 
+2025-04-26 14:09:45,734 - arxml_tool - ERROR - Error parsing ARXML file: 
+2025-04-26 14:09:45,734 - arxml_tool - ERROR - Error parsing ARXML file: 
+2025-04-26 14:09:45,734 - arxml_tool - ERROR - Error parsing ARXML file: 
+2025-04-26 14:09:45,734 - arxml_tool - ERROR - Error parsing ARXML file: 
+2025-04-26 14:09:45,734 - arxml_tool - ERROR - Error parsing ARXML file: 
+2025-04-26 14:09:45,734 - arxml_tool - ERROR - Error parsing ARXML file: 
+2025-04-26 14:09:45,736 - arxml_tool - INFO - Loading ARXML file: /home/adarsh/autosar_arxml-parser_editor/tests/../examples/sample.arxml
+2025-04-26 14:09:45,736 - arxml_tool - INFO - Loading ARXML file: /home/adarsh/autosar_arxml-parser_editor/tests/../examples/sample.arxml
+2025-04-26 14:09:45,736 - arxml_tool - INFO - Loading ARXML file: /home/adarsh/autosar_arxml-parser_editor/tests/../examples/sample.arxml
+2025-04-26 14:09:45,736 - arxml_tool - INFO - Loading ARXML file: /home/adarsh/autosar_arxml-parser_editor/tests/../examples/sample.arxml
+2025-04-26 14:09:45,736 - arxml_tool - INFO - Loading ARXML file: /home/adarsh/autosar_arxml-parser_editor/tests/../examples/sample.arxml
+2025-04-26 14:09:45,736 - arxml_tool - INFO - Loading ARXML file: /home/adarsh/autosar_arxml-parser_editor/tests/../examples/sample.arxml
+2025-04-26 14:09:45,736 - arxml_tool - INFO - Loading ARXML file: /home/adarsh/autosar_arxml-parser_editor/tests/../examples/sample.arxml
+2025-04-26 14:09:45,736 - arxml_tool - INFO - Loading ARXML file: /home/adarsh/autosar_arxml-parser_editor/tests/../examples/sample.arxml
+2025-04-26 14:09:45,736 - arxml_tool - INFO - Loading ARXML file: /home/adarsh/autosar_arxml-parser_editor/tests/../examples/sample.arxml
+2025-04-26 14:09:45,736 - arxml_tool - INFO - Loading ARXML file: /home/adarsh/autosar_arxml-parser_editor/tests/../examples/sample.arxml
+2025-04-26 14:09:45,736 - arxml_tool - INFO - Loading ARXML file: /home/adarsh/autosar_arxml-parser_editor/tests/../examples/sample.arxml
+2025-04-26 14:09:45,736 - arxml_tool - INFO - Loading ARXML file: /home/adarsh/autosar_arxml-parser_editor/tests/../examples/sample.arxml
+2025-04-26 14:09:45,926 - arxml_tool - WARNING - Failed to download schema: HTTP 404
+2025-04-26 14:09:45,926 - arxml_tool - WARNING - Failed to download schema: HTTP 404
+2025-04-26 14:09:45,926 - arxml_tool - WARNING - Failed to download schema: HTTP 404
+2025-04-26 14:09:45,926 - arxml_tool - WARNING - Failed to download schema: HTTP 404
+2025-04-26 14:09:45,926 - arxml_tool - WARNING - Failed to download schema: HTTP 404
+2025-04-26 14:09:45,926 - arxml_tool - WARNING - Failed to download schema: HTTP 404
+2025-04-26 14:09:45,926 - arxml_tool - WARNING - Failed to download schema: HTTP 404
+2025-04-26 14:09:45,926 - arxml_tool - WARNING - Failed to download schema: HTTP 404
+2025-04-26 14:09:45,926 - arxml_tool - WARNING - Failed to download schema: HTTP 404
+2025-04-26 14:09:45,926 - arxml_tool - WARNING - Failed to download schema: HTTP 404
+2025-04-26 14:09:45,926 - arxml_tool - WARNING - Failed to download schema: HTTP 404
+2025-04-26 14:09:45,926 - arxml_tool - WARNING - Failed to download schema: HTTP 404
+2025-04-26 14:09:45,927 - arxml_tool - WARNING - Could not load schema, skipping validation
+2025-04-26 14:09:45,927 - arxml_tool - WARNING - Could not load schema, skipping validation
+2025-04-26 14:09:45,927 - arxml_tool - WARNING - Could not load schema, skipping validation
+2025-04-26 14:09:45,927 - arxml_tool - WARNING - Could not load schema, skipping validation
+2025-04-26 14:09:45,927 - arxml_tool - WARNING - Could not load schema, skipping validation
+2025-04-26 14:09:45,927 - arxml_tool - WARNING - Could not load schema, skipping validation
+2025-04-26 14:09:45,927 - arxml_tool - WARNING - Could not load schema, skipping validation
+2025-04-26 14:09:45,927 - arxml_tool - WARNING - Could not load schema, skipping validation
+2025-04-26 14:09:45,927 - arxml_tool - WARNING - Could not load schema, skipping validation
+2025-04-26 14:09:45,927 - arxml_tool - WARNING - Could not load schema, skipping validation
+2025-04-26 14:09:45,927 - arxml_tool - WARNING - Could not load schema, skipping validation
+2025-04-26 14:09:45,927 - arxml_tool - WARNING - Could not load schema, skipping validation
+2025-04-26 14:09:45,928 - arxml_tool - INFO - Successfully loaded ARXML file
+2025-04-26 14:09:45,928 - arxml_tool - INFO - Successfully loaded ARXML file
+2025-04-26 14:09:45,928 - arxml_tool - INFO - Successfully loaded ARXML file
+2025-04-26 14:09:45,928 - arxml_tool - INFO - Successfully loaded ARXML file
+2025-04-26 14:09:45,928 - arxml_tool - INFO - Successfully loaded ARXML file
+2025-04-26 14:09:45,928 - arxml_tool - INFO - Successfully loaded ARXML file
+2025-04-26 14:09:45,928 - arxml_tool - INFO - Successfully loaded ARXML file
+2025-04-26 14:09:45,928 - arxml_tool - INFO - Successfully loaded ARXML file
+2025-04-26 14:09:45,928 - arxml_tool - INFO - Successfully loaded ARXML file
+2025-04-26 14:09:45,928 - arxml_tool - INFO - Successfully loaded ARXML file
+2025-04-26 14:09:45,928 - arxml_tool - INFO - Successfully loaded ARXML file
+2025-04-26 14:09:45,928 - arxml_tool - INFO - Successfully loaded ARXML file

@@ -1,0 +1,2 @@
+[console_scripts]
+arxml = src.main:cli
