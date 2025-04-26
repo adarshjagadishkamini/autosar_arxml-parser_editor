@@ -1,3 +1,15 @@
+"""
+ARXML Parser and Editor Tool
+--------------------------
+A Python tool for parsing and editing AUTOSAR XML (ARXML) files.
+Features:
+- Parse ARXML files and display their structure
+- View and modify software components
+- Update parameter values
+- Add new components
+- Merge multiple ARXML files
+"""
+
 from setuptools import setup, find_packages
 
 setup(
@@ -6,9 +18,9 @@ setup(
     packages=find_packages(),
     include_package_data=True,
     install_requires=[
-        "autosar",
-        "lxml",
-        "click",
+        "autosar-python>=0.3.2",  # Specify minimum version
+        "lxml>=4.9.0",
+        "click>=8.0.0",
     ],
     entry_points={
         "console_scripts": [
@@ -19,11 +31,18 @@ setup(
     author="Your Name",
     author_email="your.email@example.com",
     description="A tool for parsing and editing AUTOSAR XML (ARXML) files",
-    keywords="autosar, arxml, automotive",
+    long_description=__doc__,
+    keywords="autosar, arxml, automotive, xml, parser, editor",
+    url="https://github.com/yourusername/arxml-tool",  # Add your repository URL
     classifiers=[
         "Development Status :: 3 - Alpha",
         "Intended Audience :: Developers",
         "Programming Language :: Python :: 3",
+        "Programming Language :: Python :: 3.6",
+        "Programming Language :: Python :: 3.7",
+        "Programming Language :: Python :: 3.8",
+        "Programming Language :: Python :: 3.9",
         "Topic :: Software Development :: Libraries",
+        "Topic :: Text Processing :: Markup :: XML",
     ],
 )

@@ -10,7 +10,8 @@ def cli():
 
 @cli.command("info")
 @click.argument("arxml_file", type=click.Path(exists=True))
-def show_info(arxml_file):
+@click.option("--validate/--no-validate", default=True, help="Enable/disable schema validation")
+def show_info(arxml_file, validate):
     """Display information about an ARXML file"""
     parser = ARXMLParser()
     if parser.load_file(arxml_file):
@@ -70,6 +71,28 @@ def add_component(arxml_file, component_name, output):
             output_path = output if output else arxml_file
             if editor.save(output_path):
                 click.echo(f"Component '{component_name}' added successfully")
+
+@cli.command("restore-backup")
+@click.argument("arxml_file", type=click.Path(exists=True))
+@click.option("--backup-path", help="Specific backup file to restore (default: most recent)")
+def restore_backup(arxml_file, backup_path):
+    """Restore an ARXML file from backup"""
+    editor = ARXMLEditor()
+    editor.current_file = arxml_file  # Set current file without loading
+    if editor.restore_from_backup(backup_path):
+        click.echo("Backup restored successfully")
+    else:
+        click.echo("Failed to restore backup")
+
+@cli.command("cleanup-backups")
+@click.argument("arxml_file", type=click.Path(exists=True))
+@click.option("--keep-days", default=30, help="Number of days to keep backups (default: 30)")
+def cleanup_backups(arxml_file, keep_days):
+    """Clean up old backup files"""
+    editor = ARXMLEditor()
+    editor.current_file = arxml_file  # Set current file without loading
+    editor.cleanup_backups(keep_days)
+    click.echo(f"Cleaned up backups older than {keep_days} days")
 
 if __name__ == "__main__":
     cli()
