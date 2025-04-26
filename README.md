@@ -1,86 +1,63 @@
-# ARXML Parser and Editor
-A command-line tool for parsing, modifying, and writing AUTOSAR XML (ARXML) files.
+# AUTOSAR ARXML Parser & Editor
+
+A minimal Python tool for editing AUTOSAR ARXML files. Provides basic features to load, modify, and save ARXML files, with backup and restore support.
 
 ## Features
-- Parse ARXML files
-- View software components, parameters, and ports
-- Update parameter values with validation
-- Rename software components
-- Add new software components
-- Merge multiple ARXML files
+- Load ARXML files
+- Add software components
+- Save ARXML files (with automatic backup)
+- Restore ARXML files from backup (basic, see Known Issues)
+- List software components
 
 ## Installation
 
-```bash
-# Clone the repository
-git clone https://github.com/yourusername/arxml-tool.git
-cd arxml-tool
+Clone the repository and install dependencies:
 
-# Install in development mode
-pip install -e .
+```bash
+pip install -r requirements.txt
 ```
 
 ## Usage
 
-The tool provides several commands:
-
-### Display ARXML Information
-```bash
-arxml info path/to/file.arxml
-```
-
-### Update Parameter Value
-```bash
-arxml update-param path/to/file.arxml param_name new_value
-```
-
-### Rename Component
-```bash
-arxml rename-component path/to/file.arxml old_name new_name
-```
-
-### Add New Component
-```bash
-arxml add-component path/to/file.arxml component_name
-```
-
-### Merge ARXML Files
-```bash
-arxml merge base.arxml other.arxml output.arxml
-```
-
-## Options
-
-Most commands support the following options:
-- `--output`, `-o`: Specify output file path (default: overwrites input)
-
-## Example Usage
+### Programmatic Example
 
 ```python
-from src.arxml_parser import ARXMLParser
 from src.arxml_editor import ARXMLEditor
 
-# Parse an ARXML file
-parser = ARXMLParser()
-parser.load_file("example.arxml")
-
-# Edit the file
 editor = ARXMLEditor()
-editor.load("example.arxml")
-editor.add_software_component("NewComponent")
-editor.update_parameter_value("MaxSpeed", "200")
-editor.save("modified.arxml")
+editor.load("examples/sample.arxml")
+editor.add_software_component("MyComponent")
+editor.save()
+components = editor.get_software_components()
+print(components)
 ```
 
-## Development
+### CLI Example
 
-To run tests:
+If a CLI is provided in `src/main.py`:
+
 ```bash
-python -m unittest discover tests
+python src/main.py --help
 ```
 
-## Requirements
-- Python >= 3.6
-- autosar-python >= 0.3.2
-- lxml >= 4.9.0
-- click >= 8.0.0
+## Manual Verification Steps
+
+1. **Load an ARXML file**
+   - Use the editor to load `examples/sample.arxml`.
+2. **Add a software component**
+   - Add a new component and save the file.
+   - Open the ARXML file and check that the new component appears.
+3. **Backup and Restore**
+   - Save the file to trigger a backup.
+   - Modify the ARXML file (e.g., remove a component).
+   - Use the restore function to revert from the latest backup.
+   - Check if the ARXML file is reverted to its previous state (note: this may not be perfect due to current limitations).
+4. **List software components**
+   - Use the `get_software_components()` method to list all components and verify the output.
+
+## Known Issues
+- The restore from backup feature is basic and may not always fully revert all changes, especially if the ARXML structure changes significantly.
+- Some warnings/errors may appear if the ARXML file contains unsupported or custom AUTOSAR roles.
+
+## License
+MIT
