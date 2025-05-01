@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <AUTOSAR xmlns="http://autosar.org/schema/r4.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://autosar.org/schema/r4.0 AUTOSAR_4-3-0.xsd">
   <AR-PACKAGES>
     <AR-PACKAGE>
@@ -6,10 +6,25 @@
       <AR-PACKAGES>
         <AR-PACKAGE>
           <SHORT-NAME>ApplicationComponents</SHORT-NAME>
+        </AR-PACKAGE>
+        <AR-PACKAGE>
+          <SHORT-NAME>ApplicationComponents</SHORT-NAME>
           <ELEMENTS>
-            <APPLICATION-SOFTWARE-COMPONENT-TYPE>
-              <SHORT-NAME>ExampleComponent</SHORT-NAME>
-            </APPLICATION-SOFTWARE-COMPONENT-TYPE>
+            <APPLICATION-SW-COMPONENT-TYPE>
+              <SHORT-NAME>MyComponent</SHORT-NAME>
+              <PORTS>
+              </PORTS>
+              <INTERNAL-BEHAVIORS>
+                <SWC-INTERNAL-BEHAVIOR>
+                  <SHORT-NAME>MyComponent_InternalBehavior</SHORT-NAME>
+                  <SUPPORTS-MULTIPLE-INSTANTIATION>false</SUPPORTS-MULTIPLE-INSTANTIATION>
+                </SWC-INTERNAL-BEHAVIOR>
+              </INTERNAL-BEHAVIORS>
+            </APPLICATION-SW-COMPONENT-TYPE>
+            <SWC-IMPLEMENTATION>
+              <SHORT-NAME>MyComponent_Implementation</SHORT-NAME>
+              <BEHAVIOR-REF DEST="SWC-INTERNAL-BEHAVIOR">/ComponentTypes/ApplicationComponents/MyComponent/MyComponent_InternalBehavior</BEHAVIOR-REF>
+            </SWC-IMPLEMENTATION>
           </ELEMENTS>
         </AR-PACKAGE>
       </AR-PACKAGES>
@@ -19,13 +34,6 @@
     </AR-PACKAGE>
     <AR-PACKAGE>
       <SHORT-NAME>DataTypes</SHORT-NAME>
-      <ELEMENTS>
-        <INTEGER-TYPE>
-          <SHORT-NAME>Integer32</SHORT-NAME>
-          <LOWER-LIMIT>-2147483648</LOWER-LIMIT>
-          <UPPER-LIMIT>2147483647</UPPER-LIMIT>
-        </INTEGER-TYPE>
-      </ELEMENTS>
     </AR-PACKAGE>
     <AR-PACKAGE>
       <SHORT-NAME>Constants</SHORT-NAME>
@@ -33,9 +41,6 @@
     <AR-PACKAGE>
       <SHORT-NAME>System</SHORT-NAME>
       <ELEMENTS>
-        <SYSTEM>
-          <SHORT-NAME>TestSystem</SHORT-NAME>
-        </SYSTEM>
       </ELEMENTS>
     </AR-PACKAGE>
   </AR-PACKAGES>

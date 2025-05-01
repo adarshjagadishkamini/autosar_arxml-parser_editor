@@ -1,0 +1,29 @@
+2025-05-01 15:22:20,335 - arxml_tool - ERROR - Error initializing packages: Invalid role name: SystemDesign
+2025-05-01 15:22:20,335 - arxml_tool - ERROR - Error initializing packages: Invalid role name: SystemDesign
+2025-05-01 15:22:20,336 - arxml_tool - INFO - Loading ARXML file for editing: examples/sample.arxml
+2025-05-01 15:22:20,336 - arxml_tool - INFO - Loading ARXML file for editing: examples/sample.arxml
+2025-05-01 15:22:20,336 - arxml_tool - INFO - Loading ARXML file for editing: examples/sample.arxml
+2025-05-01 15:22:20,336 - arxml_tool - INFO - Loading ARXML file: examples/sample.arxml
+2025-05-01 15:22:20,336 - arxml_tool - INFO - Loading ARXML file: examples/sample.arxml
+2025-05-01 15:22:20,336 - arxml_tool - INFO - Loading ARXML file: examples/sample.arxml
+2025-05-01 15:22:20,536 - arxml_tool - WARNING - Failed to download schema: HTTP 404
+2025-05-01 15:22:20,536 - arxml_tool - WARNING - Failed to download schema: HTTP 404
+2025-05-01 15:22:20,536 - arxml_tool - WARNING - Failed to download schema: HTTP 404
+2025-05-01 15:22:20,537 - arxml_tool - WARNING - Could not load schema, skipping validation
+2025-05-01 15:22:20,537 - arxml_tool - WARNING - Could not load schema, skipping validation
+2025-05-01 15:22:20,537 - arxml_tool - WARNING - Could not load schema, skipping validation
+2025-05-01 15:22:20,538 - arxml_tool - INFO - Successfully loaded ARXML file
+2025-05-01 15:22:20,538 - arxml_tool - INFO - Successfully loaded ARXML file
+2025-05-01 15:22:20,538 - arxml_tool - INFO - Successfully loaded ARXML file
+2025-05-01 15:22:20,539 - arxml_tool - INFO - Added software component: MyComponent
+2025-05-01 15:22:20,539 - arxml_tool - INFO - Added software component: MyComponent
+2025-05-01 15:22:20,539 - arxml_tool - INFO - Added software component: MyComponent
+2025-05-01 15:22:20,540 - arxml_tool - INFO - Added software component: MyComponent
+2025-05-01 15:22:20,540 - arxml_tool - INFO - Added software component: MyComponent
+2025-05-01 15:22:20,540 - arxml_tool - INFO - Added software component: MyComponent
+2025-05-01 15:22:20,543 - arxml_tool - INFO - Created backup: /tmp/.arxml_backups/sample.arxml.20250501_152220.bak
+2025-05-01 15:22:20,543 - arxml_tool - INFO - Created backup: /tmp/.arxml_backups/sample.arxml.20250501_152220.bak
+2025-05-01 15:22:20,543 - arxml_tool - INFO - Created backup: /tmp/.arxml_backups/sample.arxml.20250501_152220.bak
+2025-05-01 15:22:20,548 - arxml_tool - INFO - Saved ARXML file to: examples/sample.arxml
+2025-05-01 15:22:20,548 - arxml_tool - INFO - Saved ARXML file to: examples/sample.arxml
+2025-05-01 15:22:20,548 - arxml_tool - INFO - Saved ARXML file to: examples/sample.arxml

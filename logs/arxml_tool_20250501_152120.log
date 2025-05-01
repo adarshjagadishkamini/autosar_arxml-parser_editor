@@ -1,0 +1,10 @@
+2025-05-01 15:21:20,147 - arxml_tool - ERROR - Error initializing packages: Invalid role name: SystemDesign
+2025-05-01 15:21:20,147 - arxml_tool - ERROR - Error initializing packages: Invalid role name: SystemDesign
+2025-05-01 15:21:20,147 - arxml_tool - INFO - Loading ARXML file: examples/sample.arxml
+2025-05-01 15:21:20,147 - arxml_tool - INFO - Loading ARXML file: examples/sample.arxml
+2025-05-01 15:21:20,338 - arxml_tool - WARNING - Failed to download schema: HTTP 404
+2025-05-01 15:21:20,338 - arxml_tool - WARNING - Failed to download schema: HTTP 404
+2025-05-01 15:21:20,339 - arxml_tool - WARNING - Could not load schema, skipping validation
+2025-05-01 15:21:20,339 - arxml_tool - WARNING - Could not load schema, skipping validation
+2025-05-01 15:21:20,339 - arxml_tool - INFO - Successfully loaded ARXML file
+2025-05-01 15:21:20,339 - arxml_tool - INFO - Successfully loaded ARXML file

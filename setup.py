@@ -29,12 +29,12 @@ setup(
         ],
     },
     python_requires=">=3.6",
-    author="Your Name",
-    author_email="your.email@example.com",
+    author="Adarsh",
+    author_email="jk.adarsh.2002@gmail.com",
     description="A tool for parsing and editing AUTOSAR XML (ARXML) files",
     long_description=__doc__,
     keywords="autosar, arxml, automotive, xml, parser, editor",
-    url="https://github.com/yourusername/arxml-tool",  # Add your repository URL
+    url="https://github.com/adarshjagadishkamini/autosar_arxml-parser_editor.git",
     classifiers=[
         "Development Status :: 3 - Alpha",
         "Intended Audience :: Developers",
